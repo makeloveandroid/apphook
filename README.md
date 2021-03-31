@@ -1,22 +1,23 @@
 # 前介
 我不知道大伙有没有这么一个烦恼，随着项目越来越庞大。从代码海中去定位一块实现逻辑，犹如大海捞针。  
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/17fdada429d44a61999b6d7166172515~tplv-k3u1fbpfcp-zoom-1.image)  
+![](https://i04piccdn.sogoucdn.com/bc5406df8ff09590)  
 
 # 解决思路
 通过 `Xposed` 拦截一些核心的关键方法，然后将收集的信息下发，我们就可以快速的定位代码啦！  
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a091c0add2604cd090995bca38cca81e~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://i01piccdn.sogoucdn.com/38ed0109b513fa4b)
 
 # 看看成品吧
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5663ccaf66fa4c18a32a54a54bac8e8c~tplv-k3u1fbpfcp-zoom-1.image)  
+![](https://z3.ax1x.com/2021/03/31/ckzVx0.png)  
 
-![demo.gif](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5998c32e8654b15bc977268add2c5c4~tplv-k3u1fbpfcp-watermark.image)
 
 # 源码
 [源码在这里，来个素质3连](https://github.com/makeloveandroid/apphook)   
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d7c14acda6d44cae84294f6cf83a4dcd~tplv-k3u1fbpfcp-zoom-1.image)  
+![](https://i02piccdn.sogoucdn.com/d2dd8354fdccd5e8)  
+
+![demo.gif](image/demo.gif)
 
 # 如何使用呢？
 1. 激活Xposed插件
@@ -164,9 +165,9 @@ object WebSocketManager : SimpleEndpoint, CoroutineScope by GlobalScope {
 
 在通过 `adb forward` 命令，将移动端的端口隐射到客户端。这样就能移动端&客户端通讯啦！  
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a4954a33e98479da23be1aeb7a2f36d~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://z3.ax1x.com/2021/03/31/cAFJtU.png)
 
-## 桌面程序
+# 桌面程序
 桌面程序我就用 `Flutter` 写啦！
 
 # 总结
