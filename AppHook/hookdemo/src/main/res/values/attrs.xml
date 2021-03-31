@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShadowKuaiImageView">
+        <attr format="color" name="kwaiShadowStartColor" />
+        <attr format="color" name="kwaiShadowEndColor" />
+        <attr format="dimension" name="kwaiShadowHeight" />
+        <attr format="dimension" name="kwaiShadowWidth" />
+        <attr name="kuaiShadowlayoutGravity">
+            <!-- Push object to the top of its container, not changing its size. -->
+            <flag name="top" value="0x30" />
+            <!-- Push object to the bottom of its container, not changing its size. -->
+            <flag name="bottom" value="0x50" />
+            <!-- Push object to the left of its container, not changing its size. -->
+            <flag name="left" value="0x03" />
+            <!-- Push object to the right of its container, not changing its size. -->
+            <flag name="right" value="0x05" />
+        </attr>
+    </declare-styleable>
+</resources>

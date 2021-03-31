@@ -1,0 +1,7977 @@
+{
+  "requestSplashAdInterval": 60,
+  "switches": {
+    "rawFrameUploadParam": {
+      "value": {},
+      "policy": 2,
+      "vartag": "1"
+    },
+    "instructionImageUrlStickerAndTextQuickApplyNEW": {
+      "value": "https://tx2.a.yximgs.com/bs2/ztMaterial/BS1VBSVNIT1VfRURJVF9TVElDS0VSXzE2MDAxNDYxNTgzNDhf5rCU5rOhQDN4.png",
+      "policy": 2,
+      "vartag": "1"
+    },
+    "switchEnableKSWebView": {
+      "value": true,
+      "vartag": "0"
+    },
+    "reinitializeAudioQueueIfOpcupiedWhenResume": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "collectGuideShowTimesIn24H": {
+      "value": 6,
+      "vartag": "0"
+    },
+    "disableSearchResultAggreCancelPreRequest": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableNewHostCheck": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableRerankMock": {
+      "value": false,
+      "vartag": "1"
+    },
+    "createPlayerWithoutNetworkCheck": {
+      "value": false,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "enableRealtimeSplash": {
+      "value": true,
+      "vartag": "0"
+    },
+    "hprof_enable_upload_all_analysis_stark": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "activityEntranceGq-kuaishou": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableKRNNewDownloader": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableShrinkTabFeedAsync": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableHomeFeedLog": {
+      "value": true,
+      "vartag": "0"
+    },
+    "thread_leak_enabled": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "nebulaFindLiveRedPack": {
+      "value": false,
+      "vartag": "1"
+    },
+    "yodaWebviewHttpDnsConfig": {
+      "value": true,
+      "vartag": "0"
+    },
+    "DebugInfoAuthKey": {
+      "value": "error",
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableShareTagWithShareSDK": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableFeedBackH5InScreenshotShare": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "businessCategoryFlutter": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "privacyPhotoAllowForward": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "networkDetectClientDefaultConfig": {
+      "value": "{     \"config\":{         \"id\":\"local_default\",         \"createTimestamp\":1585706075970,         \"mode\":0,         \"taskGroups\":[             {                 \"tasks\":[                     {                         \"id\":\"default_local_network_check\",                         \"type\":\"local_network_check\",                         \"config\":\"{\\\"gateway_ping\\\":{\\\"count\\\":3,\\\"timeout\\\":500,\\\"max_ttl\\\":2,\\\"error_threshold_loss\\\":1,\\\"error_threshold_rtt\\\":100},\\\"error_threshold_signal_strength\\\":3}\"                     }, {                         \"id\":\"default_dns_check\",                         \"type\":\"dns_check\",                         \"config\":\"{\\\"domain_suffix\\\":\\\"gifshow.com\\\",\\\"scheme\\\":\\\"http\\\"}\"                     }                 ]             }         ]     },     \"taskDefaultConfigs\":{         \"server_check\":\"{\\\"url\\\":\\\"http://www.baidu.com\\\",\\\"ping\\\":{\\\"count\\\":3,\\\"timeout\\\":1000},\\\"traceroute\\\":{\\\"count\\\":3,\\\"timeout\\\":1000,\\\"min_ttl\\\":1,\\\"max_ttl\\\":30,\\\"max_unknown\\\":3},\\\"tcp\\\":{\\\"timeout\\\":1000},\\\"http\\\":{\\\"range_start\\\":-1,\\\"range_end\\\":-1,\\\"max_read_bytes\\\":-1,\\\"user_agent\\\":\\\"\\\",\\\"include_response_content\\\":false,\\\"timeout\\\":30000,\\\"error_threshold_kbps\\\":-1}}\"     } }",
+      "vartag": "0"
+    },
+    "comment_limit_photo_threshold": {
+      "value": 9,
+      "vartag": "0"
+    },
+    "enableMomentSetPermission": {
+      "value": true,
+      "vartag": "2"
+    },
+    "disableNasaNewDeviceExp": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enablePicDownloadDialog": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "profilePromotePostCardShowInterval": {
+      "value": 24,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableShareInitGlobalBackupData": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "ksMiniEngine": {
+      "value": "{\"status\":false}",
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enable_ios_splash_remove_opt": {
+      "value": false,
+      "vartag": "1"
+    },
+    "yoda_web_page_life_stat_enabled": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "disableMJJSONErrorCatch": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableFeedAsyncInflateOpt": {
+      "value": false,
+      "vartag": "2"
+    },
+    "dumpThreshold2": {
+      "value": 0.95,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "mini_general_preload": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "aiCutStyleIdMapping": {
+      "value": {
+        "40144": "15573",
+        "40228": "15572",
+        "40247": "15571",
+        "40262": "15570",
+        "40299": "15569",
+        "40316": "15568",
+        "40334": "15567",
+        "40363": "15566",
+        "40470": "15565",
+        "40471": "15564",
+        "63813": "15563",
+        "63816": "15562",
+        "63817": "15561",
+        "63818": "15560",
+        "63819": "15559",
+        "63820": "15558",
+        "63821": "15557",
+        "63822": "15556",
+        "66174": "15555",
+        "66177": "15554",
+        "66179": "15553",
+        "68455": "15552",
+        "68456": "15551",
+        "68457": "15550",
+        "68458": "15549",
+        "75387": "15548",
+        "75388": "15547"
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "isNewFollowZeroFeedStrategy": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableRefactorDetailFactory2020_iOS": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableBackRefreshWithRerankData": {
+      "value": false,
+      "vartag": "2"
+    },
+    "RewardGifFrequencyConfig": {
+      "value": {
+        "intervalNmin": "10",
+        "maxTimesInNmin": "1",
+        "maxTimesIn24H": "20",
+        "rewardHoverWaitMillisecond": "5000"
+      },
+      "vartag": "0"
+    },
+    "emotionFavoriteMaxCount": {
+      "value": 158,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "click2CoronaDetailConfig": {
+      "value": null,
+      "vartag": "1"
+    },
+    "ksweb_use_yoda_white_list": {
+      "value": {},
+      "vartag": "2"
+    },
+    "nebulaMyFollowFeedStyle": {
+      "value": 0,
+      "vartag": "1"
+    },
+    "publish_page_settings": {
+      "value": {
+        "max_text_word_numbers": 2000,
+        "poi_guide_text_normal": "添加位置让更多人看到",
+        "poi_guide_text_activity": "",
+        "description_input_placeholder_tip": "添加合适的话题和描述，作品能获得更多推荐～",
+        "recomend_tag_index": 3,
+        "max_at_friends_number": 3,
+        "bad_topic_notice_on": true,
+        "high_quality_auto_hashtag_name": "高清视频",
+        "high_quality_auto_hashtag_switch_on": false,
+        "high_quality_video_rule": [
+          {
+            "shortSide": 1080,
+            "fps": 60
+          },
+          {
+            "shortSide": 1080,
+            "longSide": 3835
+          }
+        ]
+      },
+      "vartag": "3"
+    },
+    "enableHomeHotFragmentLazy": {
+      "value": false,
+      "vartag": "1"
+    },
+    "useNewImageDonwloader": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableThanosFPSOptimization": {
+      "value": false,
+      "vartag": "2"
+    },
+    "enableCommentEmotionGifOpt": {
+      "value": false,
+      "vartag": "1"
+    },
+    "rawFrameUploadParam2": {
+      "value": {
+        "shortSideLength": 600,
+        "quality": 0.7,
+        "maxNumber": 10,
+        "flashFrameInterval": 1000
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableLoadMoreRetry": {
+      "value": 2,
+      "vartag": "3"
+    },
+    "crossPlatformContainerType": {
+      "value": "default",
+      "policy": 2,
+      "vartag": "4"
+    },
+    "thanosSmallWindowEnabled": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableNearbyPortal": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "adVpnInterceptConfig": {
+      "value": {
+        "data": [
+          {
+            "rom": "EMUI",
+            "host": [
+              "pkginstaller-drcn.hispace.hicloud.com",
+              "store1.hispace.hicloud.com"
+            ],
+            "application": [
+              "com.android.packageinstaller"
+            ]
+          },
+          {
+            "rom": "OPPO",
+            "host": [
+              "0.0.0.0"
+            ],
+            "application": [
+              "com.android.packageinstaller",
+              "com.coloros.safesdkproxy"
+            ]
+          },
+          {
+            "rom": "VIVO",
+            "host": [
+              "az.appstore.vivo.com.cn"
+            ],
+            "application": [
+              "com.android.packageinstaller"
+            ]
+          }
+        ]
+      },
+      "vartag": "0"
+    },
+    "repack_app_need_show_dialog": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "numberParallelShoot": {
+      "value": "10",
+      "vartag": "0"
+    },
+    "kwaivppBits": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "enableHolidayLoadingConfig": {
+      "value": true,
+      "vartag": "0"
+    },
+    "ignore_realtime_tab_block_feed_request": {
+      "value": false,
+      "vartag": "2"
+    },
+    "kwaivppFpsLimitMaxInput": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "thanosLowDevOptLazy": {
+      "value": false,
+      "vartag": "1"
+    },
+    "disableSig3OBFAndroid": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableZTSDKShareOnSpringShareBusiness": {
+      "value": true,
+      "vartag": "0"
+    },
+    "flowToastFrequencyControl": {
+      "value": 1,
+      "vartag": "0"
+    },
+    "enableShareFollowsWithShareSDK": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disableSlidePredownload": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableMediaSurfaceWithoutReconfigOpt": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "ztpush_abtest_enable": {
+      "value": false,
+      "vartag": "1"
+    },
+    "poiH5URL": {
+      "value": "https://l.kuaishou.com/poi-detail/index.html?poiId={$POI}&layoutType=4&enableWK=1&hyId=ll-poi-detail#/detail",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "feedSingleAPMUploadRatio": {
+      "value": 0.0,
+      "vartag": "1"
+    },
+    "doesNotUseNewWebImageFormats": {
+      "value": "kpg",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "is_location_permission_sensitive_city": {
+      "value": false,
+      "vartag": "1"
+    },
+    "pdStartPlayMaxMsForSlide": {
+      "value": 1200,
+      "vartag": "0"
+    },
+    "isUseSystemFFITrampolinesDylib": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableDestroyDiscardPresenter": {
+      "value": false,
+      "vartag": "1"
+    },
+    "home_real_time_tab_opt": {
+      "value": true,
+      "vartag": "0"
+    },
+    "useUserProfilePageStyle": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "iosKeyConfigAsyncSendRequest": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableRCTPreload": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enablePlayerSetBatteryInfo": {
+      "value": false,
+      "vartag": "1"
+    },
+    "kMiniProgramKeyHodor": {
+      "value": "default",
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableRechargeKscoinByOrderPay": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "homeLazyInitConfig4Low": {
+      "value": "{\"lazyPages\":[\"channel\",\"channel_item\",\"corona\",\"corona_bi_feed\",\"corona_bi_host\",\"corona_bi_recofeed\",\"corona_feed\",\"corona_foll\",\"reminder\",\"foll\",\"local\",\"local_topic\",\"nearby\",\"nearby_topic\"],\"optChannelOffscreen\":true,\"from\":\"lowDevice\"}",
+      "vartag": "5"
+    },
+    "KS_collection_view_layout_header_init_flag": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableDownloadInScreenshotShare": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "opt_nasa_feature_layout": {
+      "value": true,
+      "vartag": "2"
+    },
+    "enableNasaCoronaSidebarMenu": {
+      "value": true,
+      "policy": 2,
+      "vartag": "4"
+    },
+    "backRefreshRerankTimeout": {
+      "value": 0,
+      "vartag": "1"
+    },
+    "enableRunnableAutoSchedule": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disableHomeGuideLogin": {
+      "value": false,
+      "vartag": "1"
+    },
+    "kwaiVideoHEVCDecoderName": {
+      "value": "libks265dec",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableLongBlockMonitor": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableNearbyPortalRedDot": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableFollowListEmptyTestCode": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "check_js_bridge_callback_rule": {
+      "value": "^[\\w-]+$",
+      "vartag": "1"
+    },
+    "showFrequentUserDotUserCount": {
+      "value": 15,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "preloadFrameworkAfterHomeCreated": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableShareProfileWithShareSDK": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_webview_pool_enable": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "switchEnableKSWebViewMultiThread": {
+      "value": true,
+      "vartag": "0"
+    },
+    "profile_new_video_mock": {
+      "value": true,
+      "vartag": "2"
+    },
+    "long_video_duration_definition": {
+      "value": 120,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "rewardBannerSwitchInterval": {
+      "value": 3000,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableDeserializerFailedDrop": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableFastScanAlbumQRCodeOnColdLaunch": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enablePredecodeForSlide": {
+      "value": false,
+      "vartag": "1"
+    },
+    "cronet_image_thread_max": {
+      "value": 64,
+      "vartag": "1"
+    },
+    "enableAegonLog": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableRetryByPlayerError": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableHomeLoadingMoreAnimation": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableNewNews": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enable_fast_load_realtime_service": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableSearchResultItemDecor": {
+      "value": false,
+      "vartag": "1"
+    },
+    "shareCardCoverExtraIcon": {
+      "value": {},
+      "policy": 2,
+      "vartag": "2"
+    },
+    "enableHookTypeFace": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableKRNProfileEditPage": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "businessWebviewDownloadHostWhitelist": {
+      "value": [
+        "https://www.kuaishou.com",
+        "http://www.kuaishou.com",
+        "https://detail.tmall.com",
+        "https://pages.tmall.com/wow/mit/act/download?mmstat=hpage_head&src=hpage_head",
+        "https://huodong.m.taobao.com/act/bzh0wh.html?_qr=http%3A%2F%2Fma.taobao.com%2FZhEm81&short_name=ZhEm81&actparam=3_40373_0_ZhEm81&xncode=3_40373_0_ZhEm81&spm=a313p.1.11lncwj.1030951719"
+      ],
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enable_vm_monitor": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enablePlayVideoWhenEndDraging": {
+      "value": false,
+      "vartag": "1"
+    },
+    "publish_page_max_hashtag_number": {
+      "value": 3,
+      "vartag": "2"
+    },
+    "enableSig3Upgrade_iOS_kuaishou": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "thread_leak_callstack_dump_disabled": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "VideoQosStatEventSampling": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableMainThreadCheckerOnNextLaunch": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "alMaxScanTime": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "isDisableSystemFFITrampolinesDylib": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableOnCrashScreenshot": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "fd_leak_threshold": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "thanosSimilarEnabled": {
+      "value": false,
+      "vartag": "1"
+    },
+    "tuna_plc_fallback": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "gamoraRerankEnabled": {
+      "value": true,
+      "vartag": "2"
+    },
+    "imageQuality": {
+      "value": 85,
+      "vartag": "1"
+    },
+    "enableGiftEffectTop": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "recoLogEncoding": {
+      "value": "gzip",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "xZuanWithDrawByH5": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "use_yoda_cookie_manager": {
+      "value": true,
+      "vartag": "0"
+    },
+    "redesignAssetPickMovieInfo": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enable_share_download_refactor": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "videoFilterType": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "enableOOMAddUlogReport": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "onGoingNotificationShowDays": {
+      "value": 4,
+      "vartag": "2"
+    },
+    "thanosVideoPlayReportEnabled": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableAnimatedWebpFirstFrameOpt": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableLocalFilter": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableFrequentUserPrefetch": {
+      "value": true,
+      "vartag": "0"
+    },
+    "flexBoxKuaiXiangAndAdSocialPLC": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableNasaFeaturePhotosAsyncInflate": {
+      "value": false,
+      "vartag": "1"
+    },
+    "playerSnapshotDisableLock": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "liveCoverAnnexMaxLiveShowCount": {
+      "value": 3,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "yoda_web_hybrid_package_url_path_mapping": {
+      "value": {},
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableNearbyItemBoostExp": {
+      "value": false,
+      "vartag": "1"
+    },
+    "tubeStartUpConfig": {
+      "value": {},
+      "policy": 1,
+      "vartag": "1"
+    },
+    "guideSharingPopup": {
+      "value": 604800,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableAdNoSplashFinish": {
+      "value": true,
+      "vartag": "2"
+    },
+    "yoda_switch_ad_landing_page": {
+      "value": true,
+      "vartag": "0"
+    },
+    "hot_feed_retry_load_times": {
+      "value": 0,
+      "vartag": "2"
+    },
+    "enable_oom_monitor": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableCountryCodeWithFlutter": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableRepairman": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "socialLogConfig": {
+      "value": {
+        "outputLevel": "INFO",
+        "enableLog": true,
+        "enableDowngrade": true
+      },
+      "policy": 2,
+      "vartag": "1"
+    },
+    "thanosLastCountToPreload": {
+      "value": 3,
+      "vartag": "0"
+    },
+    "enablePortalUseComponentForURL": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enablePlayerDisplayLink": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableDetailFirstFrameOptimize": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableEditorAnimationOpt": {
+      "value": true,
+      "vartag": "0"
+    },
+    "coronaRecoTriggerPlayDurationPercentage": {
+      "value": 0.1,
+      "vartag": "1"
+    },
+    "thanosNewHomeContainerEnabled": {
+      "value": false,
+      "vartag": "1"
+    },
+    "yoda_web_enable_wk_checkBlank": {
+      "value": false,
+      "vartag": "1"
+    },
+    "disableBaseStationAutoSendingRomVersions": {
+      "value": [
+        "V12"
+      ],
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableLiveCoverAnnex": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "setNewImageMaxConcurrentDownloads": {
+      "value": 6,
+      "vartag": "5"
+    },
+    "detailTapAvatarErrorLogEnable": {
+      "value": false,
+      "vartag": "1"
+    },
+    "kpgCoderDecKind": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "profilePostBubbleShowStrategy": {
+      "value": {
+        "timeIntervalNaturalDisplay": 72,
+        "timeIntervalPositiveClose": 168,
+        "forceDisplay": false
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableStartupUseMoreCover": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableShareThirdPartyInCommentsShare": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disableTachikomaPOI": {
+      "value": true,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "encryptPhoneNum": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "kdm_pre_download_enable": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "warmupProcessLogEnabled": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "loginDialogPopupConfig": {
+      "value": {
+        "enableLandingGuidePopupWindow": false
+      },
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableShareLiveWithShareSDK": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_web_inject_jserror_check_white_list": {
+      "value": {},
+      "policy": 2,
+      "vartag": "1"
+    },
+    "yoda_preload_webview_enable": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableScanAlbumUseKBarDetector": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enable_prefetch_cache_opt": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableHlsAutoLevel": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "isLocationPermissionSensitiveCity": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "maxBufStrategyForSlide": {
+      "value": 1,
+      "vartag": "0"
+    },
+    "growthQuickSettingConfig": {
+      "value": "{}",
+      "vartag": "1"
+    },
+    "preTakePhoneNumberTimeout": {
+      "value": 5,
+      "vartag": "0"
+    },
+    "enableRNForSearchTextAladdin": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableUserFilterWords": {
+      "value": true,
+      "vartag": "2"
+    },
+    "enableTrendingCoinWidgetRemoved": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableHomeCardDescShowOut": {
+      "value": false,
+      "vartag": "1"
+    },
+    "pymkViewContactsCardIndex": {
+      "value": 5,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "show_long_video_right_top_tag": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "ks-flutter": {
+      "value": true,
+      "vartag": "2"
+    },
+    "enableDetailCommentSourceWithoutVisible": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableInaccurateSeek": {
+      "value": true,
+      "vartag": "0"
+    },
+    "durationOfDisplayNotifyBubble": {
+      "value": 20,
+      "vartag": "0"
+    },
+    "videoScaleMaxValue": {
+      "value": 0.75,
+      "vartag": "0"
+    },
+    "enable_disk_io_monitor": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "authorShareFeedConfig": {
+      "value": {
+        "alert": {
+          "frequencyDaily": 2,
+          "hidePopupDays": 3
+        },
+        "float": {
+          "frequencyDaily": 2,
+          "hidePopupDays": 2
+        }
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableUploadVocal": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableIosDelayModules": {
+      "value": false,
+      "vartag": "1"
+    },
+    "minRecyclerViewMaxScrapCount": {
+      "value": 0,
+      "vartag": "2"
+    },
+    "enable_live_oom": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableTrendingIcon": {
+      "value": true,
+      "vartag": "0"
+    },
+    "is_local_feed_show_distance": {
+      "value": false,
+      "vartag": "1"
+    },
+    "diableShowFollowTabHeadRedDot": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "hot_feed_time_out": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "enableNebulaHotLiveStream": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "isPreloadTKBundle": {
+      "value": false,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "disableLiveRevenueActivitySlidePlayGuideText": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableSig3UpgradeAndroid": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "appClientPicRetryCnt": {
+      "value": 2,
+      "vartag": "3"
+    },
+    "launchFinishSkipRouter": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableSig3Upgrade_Android_kuaishou": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "dex2oat_opt": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "KSLayoutBackgroudThreadChecker": {
+      "value": false,
+      "vartag": "1"
+    },
+    "maxBufBspMsForSlide": {
+      "value": 3000,
+      "vartag": "0"
+    },
+    "redBadgeShowToastType": {
+      "value": 0,
+      "vartag": "3"
+    },
+    "yoda_enable_js_file_inject_white_list": {
+      "value": {
+        "yoda_web_inject_jserror": false
+      },
+      "vartag": "1"
+    },
+    "iosLowDevicePreloadFeedCoverOpt": {
+      "value": false,
+      "vartag": "1"
+    },
+    "merchant_yoda_entry_white_list": {
+      "value": {
+        "app.kwaixiaodian.com": [
+          {
+            "path": "/merchant"
+          },
+          {
+            "path": "/marketing/ninenine"
+          },
+          {
+            "path": "/marketing/newbie"
+          },
+          {
+            "path": "/page"
+          }
+        ],
+        "kwaishop.com": [
+          {
+            "path": "/merchant"
+          }
+        ],
+        "im.kwaixiaodian.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "youzan.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "mockuai.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "www.kuaishoupay.com": [
+          {
+            "path": "/services/merchant/apply/index.html"
+          }
+        ],
+        "ppg.m.etoote.com": [
+          {
+            "path": "/doodle/hrOSWFjV.html"
+          }
+        ]
+      },
+      "policy": 2,
+      "vartag": "13"
+    },
+    "yoda_web_use_wkwebview": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableRCTNotifySetting": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enable_ks_resource_download_reporter": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "dva_clean_old_plugins": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "autoRefreshDuration": {
+      "value": 120,
+      "vartag": "2"
+    },
+    "kw265UsePthread": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enable_desc_show_out": {
+      "value": null,
+      "vartag": "1"
+    },
+    "kwai_download_manager_use_liulishuo": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableNewQRCodeShare": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "profilePromotePostCardShowStrategy": {
+      "value": {
+        "day": 1,
+        "count": 1
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableRefreshFollowPageWithRedDot": {
+      "value": true,
+      "vartag": "0"
+    },
+    "log_api_ratio": {
+      "value": 0.001,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disableSearchAPM": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "refluxUser": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "NewRedDotSwitch": {
+      "value": true,
+      "vartag": "0"
+    },
+    "fd_leak_callstack_dump_disabled": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "postedShareDialogShowCount": {
+      "value": 1,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "warmupCheckerLogEnabled": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableThirdPartyShareInScreenshotShare": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "tunaCouponHtml": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableRNPreLoad": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableNearbyItemBoostExp1": {
+      "value": false,
+      "vartag": "1"
+    },
+    "annual_album_ram_limit": {
+      "value": 3.4,
+      "vartag": "1"
+    },
+    "activityEntranceGq": {
+      "value": false,
+      "vartag": "1"
+    },
+    "disablePlayerGPURenderOptimization": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "ADRinstructionImageUrlStickerAndTextQuickApplyNEW": {
+      "value": "https://js2.a.yximgs.com/bs2/ztMaterial/BS1VBSVNIT1VfRURJVF9TVElDS0VSXzE2MDA5NDI4OTM2OTlf5rCU5rOhQDN4.png",
+      "policy": 2,
+      "vartag": "1"
+    },
+    "disableAsyncLoadFeedWhenPreloadPage": {
+      "value": true,
+      "vartag": "2"
+    },
+    "featuredPreCachedVideoConfig": {
+      "value": "{\"prefetchIntervalMs\":10800000,\"effectiveDurationMs\":1209600000,\"preloadBytes\":81920000,\"prefetchLimit\":1,\"multiRateSwitchMode\":0,\"coldStartUseWaitTimeMs\":2000,\"coldStartUseTimeoutMs\":3000,\"disableTriggerPrefetchType\":3,\"enableFilterDuplicatedPhoto\":true, \"enableRecoOptimization\": true}",
+      "policy": 2,
+      "vartag": "5"
+    },
+    "searchHotWordsSwitchTabInterval": {
+      "value": 5,
+      "vartag": "0"
+    },
+    "enableReportFeaturedLiveRealActions": {
+      "value": true,
+      "vartag": "0"
+    },
+    "newEmpyPageSwitchInNasa": {
+      "value": true,
+      "vartag": "0"
+    },
+    "interestTagCrowdUser": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "kuaishan_flutter_preload_delay_time": {
+      "value": 0,
+      "policy": 3,
+      "vartag": "0"
+    },
+    "disableUnloginSideMenuAndroid": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableTextTagUnity": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "monitorDuplicateFeeds": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableSupportAutoPlayNextWhenTubeInXFDetail": {
+      "value": false,
+      "vartag": "1"
+    },
+    "thanosRerankEnabledForIOS": {
+      "value": false,
+      "policy": 1,
+      "vartag": "1"
+    },
+    "enableNotifyNewFramework": {
+      "value": true,
+      "vartag": "0"
+    },
+    "force_use_um": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableHotListFlutter": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableHomeRealTimeTabOpt": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enablePasteboardRecorderNew": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enablePerformanceOpt2": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enablePerformanceOpt3": {
+      "value": false,
+      "vartag": "1"
+    },
+    "useNewWebImage": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "disableSwipeFeaturedLiveWithHomeIOS": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enable_new_image_logger": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableInteractiveAPMMonitor": {
+      "value": true,
+      "vartag": "0"
+    },
+    "videoQosJsonDetail": {
+      "value": true,
+      "vartag": "0"
+    },
+    "adOpenInCurrentPageWhiteList": {
+      "value": {
+        "wx.tenpay.com": [
+          {
+            "path": "/"
+          }
+        ]
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableNewInApp": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableClipHwForHls265": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableClipHwForHls264": {
+      "value": false,
+      "vartag": "2"
+    },
+    "yoda_switch_ad_landing_page_black_list": {
+      "value": {
+        "static.yximgs.com": [
+          {
+            "path": "*"
+          }
+        ],
+        "ppg.m.etoote.com": [
+          {
+            "path": "/doodle/RqSOSiVK.html"
+          }
+        ]
+      },
+      "policy": 2,
+      "vartag": "1"
+    },
+    "disableNotLoginShowPostEntrance": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "showPreuploadWitchAdr": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enablePlayerViewAsyncInit": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "momentCountThreshold": {
+      "value": 2,
+      "vartag": "0"
+    },
+    "share_post_request_filter_duration": {
+      "value": 3000,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "disableUnloginSideMenuiOS": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableMerchantWebSkeleton": {
+      "value": false,
+      "vartag": "1"
+    },
+    "newyear_cover": {
+      "value": true,
+      "vartag": "0"
+    },
+    "disable_set_logger_at_on_attach": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enablePerformanceOpt2_log": {
+      "value": false,
+      "vartag": "1"
+    },
+    "profile_video_mock_max_time": {
+      "value": 300,
+      "vartag": "0"
+    },
+    "enableNewCdnLogger": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "momentUpdateInfoExpire": {
+      "value": 5,
+      "vartag": "0"
+    },
+    "ProfileCreatorCenterRedDotConfig": {
+      "value": {
+        "showTimes": 3,
+        "durationInHours": 72,
+        "durationInDays": 30,
+        "validDuration": 24
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disableClearCookieAfterLogout": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "switchEnableSingleLayerRender": {
+      "value": true,
+      "vartag": "0"
+    },
+    "optimizeSwipeEnterProfile": {
+      "value": true,
+      "vartag": "2"
+    },
+    "ios_kspagesview_increase_cache": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableUseSupportMaskInverterLottie": {
+      "value": false,
+      "vartag": "1"
+    },
+    "app_store_url_regex": {
+      "value": "itms-appss:\\/\\/|https?:\\/\\/(apps|itunes)\\.apple\\.com.*",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableCommentRewardIcon": {
+      "value": false,
+      "vartag": "1"
+    },
+    "abNewStyleTagTopicShowSwitch": {
+      "value": 2,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "followH5BridgeAppendFollowRefer": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "reserveDetailPlayerCount": {
+      "value": 2,
+      "vartag": "1"
+    },
+    "enableFirstFrameWithoutPause": {
+      "value": true,
+      "vartag": "0"
+    },
+    "isForceGCAfterExecutingHookedMethod": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "fd_leak_disable_java_callstack": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "RewardCommentMaxCharacterCount": {
+      "value": 40,
+      "vartag": "0"
+    },
+    "enableDateBubble": {
+      "value": true,
+      "vartag": "0"
+    },
+    "yoda_wk_ajax_hook_for_cookie_white_list": {
+      "value": {},
+      "policy": 2,
+      "vartag": "0"
+    },
+    "mini_pre_install": {
+      "value": {
+        "enablePreDownloadEngine": false,
+        "enableGeneralPreload": true,
+        "preDownloadAppIdList": [
+          "ks650207197615339372",
+          "ks670754871506655879",
+          "ks677510272632699148",
+          "ks670191921327355224",
+          "ks683421245751343703"
+        ]
+      },
+      "policy": 2,
+      "vartag": "9"
+    },
+    "yoda_wkwebview_offline_white_list": {
+      "value": {},
+      "policy": 2,
+      "vartag": "1"
+    },
+    "VodadaptiveRateConfig": {
+      "value": {
+        "adapt_under_4G": 1,
+        "adapt_under_wifi": 1,
+        "adapt_under_other_net": 1,
+        "bitrate_init_level": -18,
+        "priority_policy": 5,
+        "fourG_amend": 0.35,
+        "wifi_amend": 0.3,
+        "resolution_amend": 0.6,
+        "short_keep_interval": 60000,
+        "long_keep_interval": 600000,
+        "short_keep_interval_wifi": 15000,
+        "long_keep_interval_wifi": 60000,
+        "enable_low_res_auto": 1,
+        "wifi_amend_1080p": 0.5,
+        "absolute_low_res_4G": 0,
+        "absolute_low_rate_4G": 0,
+        "absolute_low_rate_wifi": 0,
+        "absolute_low_res_wifi": 0,
+        "default_weight": 1,
+        "device_hight_threshold": 1152,
+        "device_width_threshold": 576,
+        "block_affected_interval": 2000,
+        "rate_adapt_type": 0,
+        "absolute_low_res_low_device": 2,
+        "bandwidth_estimation_type": 1,
+        "intervalMs": 60000,
+        "rebuf_ratio_threshold": 13,
+        "preload_data_threshold": -400,
+        "high_device_res": 99999999,
+        "nettype_score": 15151505
+      },
+      "policy": 2,
+      "vartag": "3"
+    },
+    "enableSurfaceViewPlay": {
+      "value": false,
+      "vartag": "1"
+    },
+    "yoda_force_disable_wkwebview_white_list": {
+      "value": {},
+      "policy": 2,
+      "vartag": "0"
+    },
+    "trendingListTagCount": {
+      "value": 3,
+      "vartag": "1"
+    },
+    "guidenceOfDownloadByLongPress": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "trendingNonTransparentBackground": {
+      "value": false,
+      "vartag": "1"
+    },
+    "coronaRequestNextPageWhenLeftFeedCount": {
+      "value": 0,
+      "vartag": "2"
+    },
+    "disableOldLatLon": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableWebKitV2": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableFeaturedDetailLazyLoad": {
+      "value": false,
+      "vartag": "1"
+    },
+    "playerMaxBufferForHls": {
+      "value": 20000,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "enableShareComment": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "abtest_wallpaper_download_time_threshold": {
+      "value": 10,
+      "vartag": "0"
+    },
+    "homeLazyInitConfig": {
+      "value": "{\"lazyPages\":[\"channel\",\"channel_item\",\"corona\",\"corona_bi_feed\",\"corona_bi_host\",\"corona_bi_recofeed\",\"corona_feed\",\"corona_foll\",\"reminder\",\"foll\",\"local\",\"local_topic\",\"nearby\",\"nearby_topic\"],\"optChannelOffscreen\":true,\"from\":\"开关系统\"}",
+      "vartag": "2"
+    },
+    "enableCloseStopPlayVideoWhenStopDrag": {
+      "value": false,
+      "vartag": "1"
+    },
+    "clientLogEncoding": {
+      "value": {
+        "encoding": "zstd",
+        "level": 3
+      },
+      "vartag": "0"
+    },
+    "enableShareMusicStationWithShareSDK": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "detailSimilarPhotoStyle": {
+      "value": 1,
+      "vartag": "1"
+    },
+    "block_apm_finish_by_realtab": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableOneKeyBindPhone": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "nearbySearchBarStyle": {
+      "value": 0,
+      "vartag": "1"
+    },
+    "mini_pre_download_kma": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "iosLaunchRunloopOpt": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableCronetPlayer": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enablePhotoCommentFriendsVisible": {
+      "value": true,
+      "vartag": "2"
+    },
+    "playerAsyncSetupAudio": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "sodl_config_v3": {
+      "value": "{\"plugins\": [{\"id\": \"qrcode\",\"versions\": [{\"enable\": 1,\"force\": 0,\"min_build\": 0,\"size\": 1463749,\"md5\": \"08d29f06f82b436f9d0ead083b015b90\",\"url\": \"https://js.a.kspkg.com/bs2/fes/qrcode_015b90.apk\",\"ver_code\": 1,\"ver_name\": \"二维码1.0\"},{\"enable\": 1,\"force\": 0,\"min_build\": 0,\"size\": 1609965,\"md5\": \"a1745ee495b540108a5fd0af5c232e4b\",\"url\": \"https://js.a.kspkg.com/bs2/fes/qrcode_v2_232e4b.apk\",\"ver_code\": 2,\"ver_name\": \"二维码2.0\"}]},{\"id\": \"flutter\",\"versions\":[{\"enable\": 1,\"force\": 0,\"min_build\": 0,\"size\": 6569109,\"md5\": \"9563463d72e30073010dfcf2a41fc2ef\",\"url\": \"https://js.a.kspkg.com/bs2/fes/flutter_v2_1fc2ef.apk\",\"ver_code\": 2,\"ver_name\": \"Flutter 2.0\"}]}]}",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "sodl_config_v2": {
+      "value": "{     \"plugins\": [         {             \"desc\": \"扫码插件\",             \"id\": \"qrcode\",             \"versions\": [                 {                     \"enable\": 1,                     \"force\": 0,                     \"min_build\": 0,                     \"size\": 1463749,                     \"md5\": \"08d29f06f82b436f9d0ead083b015b90\",                     \"url\": \"https://js.a.kspkg.com/bs2/fes/qrcode_015b90.apk\",                     \"ver_code\": 1,                     \"ver_name\": \"二维码1.0\"                 }             ]         }     ] }",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "searchHotWordDisplayDuration": {
+      "value": 10,
+      "vartag": "2"
+    },
+    "liveEarnMoneyTunaEnabled": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableShareSlideFeedDetailWithShareSDK": {
+      "value": true,
+      "vartag": "0"
+    },
+    "yoda_web_stop_observe_wk_content_size": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableSearchBizException": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableSecureFlagAllScenario": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enable4GSplashCache": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableEnlargeMiddlePause": {
+      "value": true,
+      "vartag": "2"
+    },
+    "nativeLeakMonitorConfig": {
+      "value": {
+        "enableMonitor": false
+      },
+      "vartag": "1"
+    },
+    "enableShareLiveFragmentWithSDK": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "dark_guide_show_times": {
+      "value": 1,
+      "vartag": "0"
+    },
+    "disable_ks_resource_download": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableRegistJSBridgeForAll": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableLowDeviceCancelPreload": {
+      "value": false,
+      "vartag": "1"
+    },
+    "crashProtectorDisableFlag": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enablePushFollowTopOne": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableAnimatedWebp565": {
+      "value": true,
+      "vartag": "0"
+    },
+    "freeTrafficOptEnable": {
+      "value": true,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "enableBottomBarRefactor": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableHome3TabLazyLoad": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "force_use_appflyer": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableScrollFastStopAnimatedWebp": {
+      "value": true,
+      "vartag": "0"
+    },
+    "nasa_top_bar_alpha_android": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableThanosLogOptimization": {
+      "value": false,
+      "vartag": "1"
+    },
+    "deletePagerAdapterCatch": {
+      "value": true,
+      "vartag": "0"
+    },
+    "prePostConsumeRecordConfig": {
+      "value": {
+        "validDurationBeforeRecord": 60,
+        "singleWatchTime": 5,
+        "watchNumberBeforeRecord": 1,
+        "validDurationBeforeRecordMagicfaceTag": 60,
+        "singleWatchTimeMagicfaceTag": 5,
+        "singleWatchTimeThanos": 10
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableCheckFaceArea": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableLoadFeedAsyncInThansOnly": {
+      "value": false,
+      "vartag": "1"
+    },
+    "playerPipenodeV2": {
+      "value": false,
+      "vartag": "1"
+    },
+    "followHotLaunchMiddleTime": {
+      "value": 900000,
+      "vartag": "0"
+    },
+    "KSCollectionViewLayoutHeaderInitFlag": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "localLocationMinIntervalInSec": {
+      "value": 0,
+      "vartag": "1"
+    },
+    "enableRedDotHandlerMainThread": {
+      "value": false,
+      "vartag": "1"
+    },
+    "notifyURLNewWayEnabled": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "maxcountOfPhotoIdsForDominoFilter": {
+      "value": 200,
+      "vartag": "0"
+    },
+    "enableAlbumPerfOptAdr": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableCronetImageFetcher": {
+      "value": true,
+      "vartag": "0"
+    },
+    "force_disable_video_screencast": {
+      "value": false,
+      "vartag": "1"
+    },
+    "tableAdapterMergeUpdateEnable": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "playableSplashDiskMaxSize": {
+      "value": 100.0,
+      "vartag": "0"
+    },
+    "memoryOriginalMusic": {
+      "value": [
+        {
+          "musicID": "1769197115",
+          "musicType": 4
+        },
+        {
+          "musicID": "1750062408",
+          "musicType": 4
+        },
+        {
+          "musicID": "1769257602",
+          "musicType": 4
+        },
+        {
+          "musicID": "1769272195",
+          "musicType": 4
+        },
+        {
+          "musicID": "1769162123",
+          "musicType": 4
+        },
+        {
+          "musicID": " 1769286816",
+          "musicType": 4
+        }
+      ],
+      "policy": 2,
+      "vartag": "0"
+    },
+    "coverBubbleImageUrl": {
+      "value": "https://tx2.a.yximgs.com/bs2/ztMaterial/BbnVsbF9udWxsXzE2MDAyMjA5MTY2MTRf5rCU5rOh5YaF5Zu-5paHLW1pbiAoMik=.png",
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableTagRelatedNewView": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableNewSlideFramework": {
+      "value": false,
+      "vartag": "2"
+    },
+    "semanticLogging": {
+      "value": [],
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enablePerformanOpt": {
+      "value": false,
+      "vartag": "1"
+    },
+    "thanosLogCommentsErrorInfo": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableAdFillingStrategy": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "hprof_vss_kb_threshold": {
+      "value": 3840000,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableFeedEnterDetailOpt": {
+      "value": false,
+      "vartag": "1"
+    },
+    "trendingDetailGestureGuidance": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableMediaButtonControl": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableSearchQuery": {
+      "value": false,
+      "vartag": "2"
+    },
+    "enableShareFeedDetailWithShareSDK": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disableThirdPartKeyboard": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "disableSig3OBF_Android_kuaishou": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "isDisableRetryMethodHookInDylib": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "ignoreMyFollowNotifyTimeInterval": {
+      "value": 180000,
+      "vartag": "0"
+    },
+    "netcheckUserTriggerServerConfig": {
+      "value": "{}",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "forceUseBottomNavigation": {
+      "value": false,
+      "vartag": "1"
+    },
+    "image_fetch_failed_ratio": {
+      "value": 1.0,
+      "policy": 1,
+      "vartag": "0"
+    },
+    "nebulaFindLiveCoupon": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "home_realtime_tab_startup_timeout": {
+      "value": 2000,
+      "vartag": "0"
+    },
+    "enableBottomCoronaMyFollow": {
+      "value": true,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "sfGrabShadow": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableRefactorPlayer": {
+      "value": false,
+      "vartag": "1"
+    },
+    "showPushSettingBar": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "image_diplay_failed_ratio": {
+      "value": 1.0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "thanosFindLiveRedPack": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableNasaFeatureGPUOpt": {
+      "value": true,
+      "vartag": "0"
+    },
+    "nebulaBottomEntranceGeneralization": {
+      "value": false,
+      "vartag": "1"
+    },
+    "hodorTaskRetryType": {
+      "value": 2,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "disableABExperimentInLaunchEvent": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableiOSDetailCommentsScrolledOptimizeCpu": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableRefactorFollowList": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enable_kswitch_in_keyconfig": {
+      "value": false,
+      "vartag": "1"
+    },
+    "PublishPageShareOptions": {
+      "value": [
+        "wechatSession",
+        "wechatTimeline",
+        "qqFriend"
+      ],
+      "policy": 2,
+      "vartag": "2"
+    },
+    "requireRealtimeTabWithUnlogin": {
+      "value": true,
+      "vartag": "0"
+    },
+    "isEnableRevokeHookedMethod": {
+      "value": true,
+      "vartag": "0"
+    },
+    "switchEnableKsWebViewMultiCookie": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enablePlcDslTemplate": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableRNStartupRuntimeInitialize": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "krn_bundle_load_mode": {
+      "value": true,
+      "vartag": "0"
+    },
+    "trendingOptimizedEnabled0528": {
+      "value": true,
+      "vartag": "0"
+    },
+    "collectFootprintInShowLog": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "HlsAbrConfig": {
+      "value": {
+        "speed_utilization_percent": 75,
+        "buffer_utilization_percent": 75,
+        "recent_buffered_size": 3,
+        "buffer_lower_limit_ms": 5000,
+        "speed_smooth_percent": 70,
+        "abr_alg_type": 0
+      },
+      "vartag": "6"
+    },
+    "videoSuspendMaxValue": {
+      "value": 0.33,
+      "vartag": "0"
+    },
+    "enableFeaturedMarqueeLabelOptimizeIOS": {
+      "value": false,
+      "vartag": "1"
+    },
+    "yodaWebviewProxyNewConfig": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "shouldLogDuplicateFeedKey": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableHodorDebugOnPlayer": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableReadAlbumQRCode": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableClcClick2MemoryCache": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableSearchGradientFresco": {
+      "value": false,
+      "vartag": "1"
+    },
+    "imageMemoryCacheKind": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "tkPageMonitorInfo": {
+      "value": {},
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_wk_use_ajax_hook": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enablePreStartAudioQueue": {
+      "value": false,
+      "vartag": "1"
+    },
+    "profileFeedPlayCount": {
+      "value": 100,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "videoRenderType": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableNewCdnLoggerWithDelayAsync": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableNewLiveSubscribe": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disablePreloadFeaturedVCForLowPerfromanceDevice": {
+      "value": false,
+      "vartag": "1"
+    },
+    "yoda_web_disable_WebGLInBackground": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableVoteSticker": {
+      "value": true,
+      "vartag": "0"
+    },
+    "IntervalTimeForRNPreloadInterface": {
+      "value": 1800,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "cronetPostEarlyDataRouteWhitelist": {
+      "value": "[\"API\", \"UPLOAD\", \"ULOG\", \"LIVE\"]",
+      "vartag": "2"
+    },
+    "shareMyFeedGuideConfig": {
+      "value": {
+        "delay": 3,
+        "duration": 10,
+        "frequenceyDaily": 2,
+        "daysToWithdraw": 7
+      },
+      "policy": 2,
+      "vartag": "1"
+    },
+    "editStickerAdditionalScale": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "deadlockWatchdogInterval": {
+      "value": 0.0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "oom_memory_threshold": {
+      "value": 16384,
+      "policy": 2,
+      "vartag": "3"
+    },
+    "enableReleaseShake": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "kp_enable_webrtc": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "topShareContentHomeChannel": {
+      "value": {
+        "id": "36",
+        "name": "最热"
+      },
+      "policy": 2,
+      "vartag": "1"
+    },
+    "fixNoneFeedCellEnabled": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "delay_request_abtest": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disableLiveAudienceFrameMetrics": {
+      "value": true,
+      "vartag": "0"
+    },
+    "nebulaPressInfoABTest": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "intervalTimeForRNPreload": {
+      "value": 60,
+      "policy": 2,
+      "vartag": "4"
+    },
+    "newUser": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enable_rectify_oppo_splash_logo": {
+      "value": true,
+      "vartag": "0"
+    },
+    "playerVodP2spConfig": {
+      "value": {
+        "policy": "dur_qoe_adapt&r0=10&r1=20&g0=913",
+        "taskMaxSize": 5000,
+        "cdnRequestMaxSize": 1048576,
+        "onThreshold": 5000,
+        "offThreshold": 2000
+      },
+      "policy": 2,
+      "vartag": "3"
+    },
+    "mini_about_switch": {
+      "value": "native",
+      "policy": 2,
+      "vartag": "1"
+    },
+    "acquaintanceMaxCloseCount": {
+      "value": 3,
+      "vartag": "0"
+    },
+    "coronaPrefetchRecomendFeeds": {
+      "value": true,
+      "vartag": "2"
+    },
+    "requestKeyConfigWHenNetworkChanged": {
+      "value": false,
+      "vartag": "2"
+    },
+    "enableAutoUnrefDrop": {
+      "value": false,
+      "vartag": "1"
+    },
+    "nasa_bottom_bar_alpha_android": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enable_launcher_widget": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "mini_predownload_appids": {
+      "value": [
+        "ks650207197615339372",
+        "ks670754871506655879",
+        "ks677510272632699148",
+        "ks670191921327355224",
+        "ks683421245751343703"
+      ],
+      "policy": 2,
+      "vartag": "4"
+    },
+    "enableMainThreadChecker": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "edit_makeup_body_enable": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disableRetryNewPlayUrlV3": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableFilterParseErrorFeed": {
+      "value": true,
+      "vartag": "0"
+    },
+    "disableRetryNewPlayUrlV2": {
+      "value": true,
+      "vartag": "0"
+    },
+    "yoda_web_disable_JIT": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enablePlayerWindowDisconnect": {
+      "value": true,
+      "vartag": "0"
+    },
+    "yoda_wkwebview_peer_render_black_list": {
+      "value": {},
+      "policy": 2,
+      "vartag": "0"
+    },
+    "hotChannelTabNumber": {
+      "value": 0,
+      "vartag": "4"
+    },
+    "optLoadMoreConfig": {
+      "value": "",
+      "vartag": "5"
+    },
+    "sideSquareExitTipsIntervalDays": {
+      "value": 3,
+      "vartag": "0"
+    },
+    "fd_leak_enabled": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_entry_white_list": {
+      "value": {
+        ".com": [
+          {
+            "path": "*"
+          }
+        ],
+        ".cn": [
+          {
+            "path": "*"
+          }
+        ],
+        ".io": [
+          {
+            "path": "*"
+          }
+        ]
+      },
+      "policy": 2,
+      "vartag": "13"
+    },
+    "enable_launch_oom": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "yoda_web_global_statistics_sample_rate": {
+      "value": 1.0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableIJKProPlayerNewCdnLogger": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "hprof_enable_upload_local_analysis_stark": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "useNewImageDownloader": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "cronetConfig": {
+      "value": "{\"enable_quic\": true, \"preconnect_num_streams\": 2, \"quic_idle_timeout_sec\": 180, \"quic_use_bbr\": true, \"altsvc_broken_time_max\": 600, \"altsvc_broken_time_base\": 60, \"proxy_host_whitelist\": [\"*\"]}",
+      "vartag": "1"
+    },
+    "magic_download_count": {
+      "value": 6,
+      "vartag": "0"
+    },
+    "yoda_business_enabled": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "thanosRerankEnabled": {
+      "value": false,
+      "vartag": "2"
+    },
+    "kwaiplayer_analytics_switch": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "netcheckUserTriggerLocalNetworkConfig": {
+      "value": "{}",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "showProfileKwaiIdDaysInterval": {
+      "value": 7,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "dumpThreshold": {
+      "value": 0.95,
+      "policy": 2,
+      "vartag": "5"
+    },
+    "cronetInterceptorEnableHttpCache": {
+      "value": false,
+      "vartag": "1"
+    },
+    "hprof_thread_threshold": {
+      "value": 750,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableRichLabelForceLTR": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableShareCollect": {
+      "value": false,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "enable_ax2c": {
+      "value": true,
+      "vartag": "0"
+    },
+    "mini_config_pre_request": {
+      "value": false,
+      "vartag": "1"
+    },
+    "editTabIconNew": {
+      "value": 10,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "useLaunchTask": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enable_local_feed_downgrade": {
+      "value": false,
+      "vartag": "1"
+    },
+    "xinhuiUser": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "useDownloadImageWithResizeParameter": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableLocalTopicCircle": {
+      "value": 1,
+      "vartag": "1"
+    },
+    "enableTabbarRefactorCmt": {
+      "value": false,
+      "vartag": "1"
+    },
+    "thanosFixSlipCompensation": {
+      "value": false,
+      "vartag": "1"
+    },
+    "hprof_fd_threshold": {
+      "value": 900,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "notFollowTabBackMiddleTime": {
+      "value": 900000,
+      "vartag": "0"
+    },
+    "iosLowDeviceSwitch": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enable_thanos_hot_live_gift": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "hprof_enable_local_analysis_ratio_huidu": {
+      "value": 0.2,
+      "policy": 2,
+      "vartag": "4"
+    },
+    "yoda_wk_revert_to_old_inject_white_list": {
+      "value": {},
+      "policy": 2,
+      "vartag": "0"
+    },
+    "mainIOSRerankEnabled": {
+      "value": false,
+      "policy": 1,
+      "vartag": "1"
+    },
+    "enableAegonHttpdns": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "EnableSplitABTest": {
+      "value": true,
+      "vartag": "2"
+    },
+    "startupRunloopWaitTimeout": {
+      "value": 0.0,
+      "vartag": "0"
+    },
+    "enableSnapshotTabBarOptLowDevice": {
+      "value": false,
+      "vartag": "1"
+    },
+    "thanosMarqueePerformanceOptimizeEnable": {
+      "value": false,
+      "vartag": "1"
+    },
+    "krnJsExecutor": {
+      "value": "HERMES",
+      "vartag": "2"
+    },
+    "enableStartPlayAfterSurfaceSet": {
+      "value": true,
+      "vartag": "0"
+    },
+    "profileDesignStyle": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableUseNewMagicViewInit": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableRotateScreenOptimization": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "KSMiniAppSwitch": {
+      "value": {
+        "minNativeVersion": "1.1.12.0",
+        "desc": "请升级到新版本以打开小程序"
+      },
+      "policy": 2,
+      "vartag": "5"
+    },
+    "enableiOSLaunchRunloopOpt": {
+      "value": false,
+      "vartag": "1"
+    },
+    "useDefaultEnhanceColorFilter": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "tunaProfileGuide": {
+      "value": "{     \"text\": \"我也要拥有个性化主页\",     \"url\": \"https://webview-b.e.kuaishou.com/?&hyId=merchant_aggregate#/merchant\" }",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableCrashAddUlogReport": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "disableSig3OBF_iOS_kuaishou": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "framesOnceUnrefDropped": {
+      "value": -1,
+      "vartag": "0"
+    },
+    "enableLandscapePlayerForceHardDecoder": {
+      "value": true,
+      "vartag": "0"
+    },
+    "readAlbumQRCodeCount": {
+      "value": 3,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "showPreuploadWitchIos": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "mini_pre_download_engine_so": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableLongPressShare": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "refreshLocationInterval": {
+      "value": 3600,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "nonslide_detail_comment_inputbox_placeholder": {
+      "value": {
+        "en": "Say something nice ~",
+        "zh-hans": "发条有爱评论~",
+        "zh-hant": "發條有愛評論~"
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "useFrescoLargerCache": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableSharePhotoWithShareSDK": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableClearSDMemory": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "hlsHevcDecoderName": {
+      "value": "libks265dec",
+      "policy": 2,
+      "vartag": "1"
+    },
+    "forbidAutoOpenAppProgress": {
+      "value": 0.7,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "isEnableUseAssetPoi": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableTagRank": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "followFeedsCoverWidthRatio": {
+      "value": 1.0,
+      "vartag": "0"
+    },
+    "enableDownloadSearchPhotoWithWatermark": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableRewardCountUpdateDelay": {
+      "value": 3500,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableLiveSubscribe": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "networkStatEventReportIntervalMs": {
+      "value": 300000,
+      "vartag": "1"
+    },
+    "nebulaDownloadRedPacket": {
+      "value": {},
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableShareSystemPicture": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "yoda_web_disable_WebKitCacheModelPreferenceKey": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "thanosShowEmotionIds": {
+      "value": [],
+      "vartag": "0"
+    },
+    "nasa_enable_swipe_featured_live_with_home_android": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enablePublishPoiOffsite": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableDiskCacheForIgnoredToken": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableSlideSurfaceViewPlay": {
+      "value": false,
+      "vartag": "1"
+    },
+    "disableFollowTryCatchBatchUpdate": {
+      "value": false,
+      "vartag": "1"
+    },
+    "playerVodP2spConfigSlide": {
+      "value": {
+        "policy": "dur_qoe_adapt&r0=10&r1=20&g0=813",
+        "taskMaxSize": 5000,
+        "cdnRequestMaxSize": 1048576,
+        "onThreshold": 5000,
+        "offThreshold": 2000
+      },
+      "policy": 2,
+      "vartag": "2"
+    },
+    "enableVerticalContentsCoronaTab": {
+      "value": false,
+      "vartag": "2"
+    },
+    "optTopHotChannelMemory": {
+      "value": 0,
+      "vartag": "1"
+    },
+    "enableFixiOS10NanoZoneCrash": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "sideSquareEntranceRemind": {
+      "value": true,
+      "vartag": "0"
+    },
+    "frequentUserPrefetchPageSize": {
+      "value": 1,
+      "vartag": "0"
+    },
+    "hprof_enable_dump_hprof_when_oom": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "mockFeedExpiredTime": {
+      "value": 60,
+      "vartag": "0"
+    },
+    "disable_ks_resource_non_pre_download": {
+      "value": false,
+      "vartag": "1"
+    },
+    "reduceShowSoftInputDelay": {
+      "value": true,
+      "vartag": "0"
+    },
+    "yoda_wk_pool_white_list": {
+      "value": {},
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableOptimalDns": {
+      "value": true,
+      "vartag": "0"
+    },
+    "thread_leak_threshold": {
+      "value": 420,
+      "policy": 2,
+      "vartag": "6"
+    },
+    "enableFPSOPTFourthForSingle": {
+      "value": false,
+      "vartag": "2"
+    },
+    "log_api_fail_ratio": {
+      "value": 1.0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "bgFetchDur": {
+      "value": 3,
+      "vartag": "1"
+    },
+    "disableSig3OBF_Android_Nebula": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "acquaintanceConnectContactTimeInterval": {
+      "value": 7,
+      "vartag": "0"
+    },
+    "post_perf_report": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableRecyclerViewUnlimitScrapCount": {
+      "value": false,
+      "vartag": "2"
+    },
+    "gossipThanosSlideNoVideoReqCount": {
+      "value": 5,
+      "vartag": "0"
+    },
+    "resourceCollectEnable": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableHttpdnsSink": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "yoda_global_bridge_white_list": {
+      "value": [],
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableCommentPermissionSet": {
+      "value": true,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "use_new_debuglog_sdk": {
+      "value": false,
+      "vartag": "1"
+    },
+    "configSeSDK_iOS_Kuaishou": {
+      "value": {
+        "disable_0xC095_ios": false,
+        "disable_0xF5CD_ios": false,
+        "disable_0x64C6_ios": false,
+        "disable_0x4A9F_ios": false,
+        "disable_0x315C_ios": false,
+        "disable_0x9ABC_ios": false,
+        "disable_0xE17F_ios": false,
+        "disable_0x758E_ios": false,
+        "disable_0x515C_ios": false,
+        "disable_0x4840_ios": false,
+        "disable_0xD49B_ios": false,
+        "disable_0x7405_ios": false,
+        "disable_0x5DB1_ios": false,
+        "disable_0x38B7_ios": false,
+        "disable_0x7F35_ios": false,
+        "disable_0x04F6_ios": false,
+        "disable_0x5845_ios": false,
+        "disable_0x5DCF_ios": false
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "OOM_DUMP_THREAD_COUNT_THRESHOLD": {
+      "value": 2000,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "hotChannelPvFix": {
+      "value": true,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "enableRedesignMetaComponent": {
+      "value": false,
+      "vartag": "1"
+    },
+    "PhotoReeditDeleteDialog": {
+      "value": 9999999999,
+      "vartag": "1"
+    },
+    "trendingCardEnabled": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "tubeContributorNoticeLink": {
+      "value": "https://ppg.m.etoote.com/doodle/o/WgwyVEQM.html?hyId=doodle_WgwyVEQM",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "newPreloadFeedImageSwitch": {
+      "value": 2,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "notFollowTabBackLongTime": {
+      "value": 3600000,
+      "vartag": "0"
+    },
+    "followLayoutBugFix": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableReactNativeForPushSetting": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableAudioConvert": {
+      "value": true,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "kdm_enable_detailed_limit": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "search_siri_shortcut_hotpage_info": {
+      "value": {
+        "title": "快手搜索",
+        "subTitle": "搞笑段子、美食教程、明星娱乐？想看什么来快手搜一下！",
+        "guideWords": "快手搜索",
+        "keywords": "快手,快手搜索,热点,热点资讯,快手热榜,热搜,美食,美食教程,家常菜,搞笑,段子,搞笑段子,幽默,直播",
+        "linkUrl": "kwai://search?source=homepage-ios",
+        "siriShortcutIdentifier": "com.kwai.kuaishou.siri.shortcut.search.hot"
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableReportRelationUrl": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enablePerformanceOptimization": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enablePrecreateResultVC": {
+      "value": false,
+      "vartag": "1"
+    },
+    "sidebar_mini_app_switch": {
+      "value": true,
+      "vartag": "0"
+    },
+    "forbidenMagicFacePreDownload": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "broadcastBannerShowIntervalMs": {
+      "value": 5000,
+      "vartag": "0"
+    },
+    "slideMenuLayoutOpt": {
+      "value": false,
+      "vartag": "2"
+    },
+    "cronetMTRequestDelayTimeMS": {
+      "value": -1,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "editHDRToSDR": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "kpgUseSerialDecoder": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "shareSDKUseRefactoredPanel": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "fansSharePopGuideLimit": {
+      "value": 1,
+      "vartag": "0"
+    },
+    "preTakePhoneNumberAfterFailure": {
+      "value": false,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "yoda_wkwebview_black_list": {
+      "value": {},
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableFeaturePrefetch": {
+      "value": true,
+      "vartag": "0"
+    },
+    "photosMetadataScan": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "adItemClickStrategy": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "feedImageCacheKeyDisable": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enable_remote_thumb_switch": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableTopComment": {
+      "value": true,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "enableCronetForAllTask": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "nasaHomeBack": {
+      "value": 0,
+      "vartag": "2"
+    },
+    "yoda_disable_protocol_intercept_ext_list": {
+      "value": [
+        "empty_exp"
+      ],
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enablePasteboardRecorder": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "pageSizeOfDisplayNotifyBubble": {
+      "value": 16,
+      "vartag": "0"
+    },
+    "shareToWechatPopupCountAfterDownload": {
+      "value": 999,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "configSeSDK_Android_Kuaishou": {
+      "value": {
+        "disable_0xC095_and": false,
+        "disable_0xF5CD_and": false,
+        "disable_0x64C6_and": false,
+        "disable_0x4A9F_and": false,
+        "disable_0x315C_and": false,
+        "disable_0x9ABC_and": false,
+        "disable_0xE17F_and": false,
+        "disable_0x758E_and": false,
+        "disable_0x515C_and": false,
+        "disable_0x4840_and": false,
+        "disable_0xD49B_and": false,
+        "disable_0x7405_and": false,
+        "disable_0x5DB1_and": false,
+        "disable_0x38B7_and": false,
+        "disable_0x7F35_and": false,
+        "disable_0x04F6_and": false,
+        "disable_0x5845_and": false,
+        "disable_0x5DCF_and": false
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "hlg_ios_debug_enable": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "DelaySplitABTest": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "enableHdrRender": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "disableSig3OBF_Android_kuaishou_gt8120": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableZombie": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableLiveroomThanosHateLiveFilter": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableNewProfileFeedAdapter": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enablePreloadLocalPage": {
+      "value": false,
+      "vartag": "1"
+    },
+    "ios_dig_method_params": {
+      "value": {},
+      "policy": 2,
+      "vartag": "1"
+    },
+    "authorShareBubbleDisplayTimesPerDay": {
+      "value": 3,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "detailFirstFrameOptimizeOvertimeTime": {
+      "value": 0.0,
+      "vartag": "0"
+    },
+    "startProfileShareAnimationInterval": {
+      "value": 60.0,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "showChildLockAfterPrivacyDialog": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "maxDownloadableSizeFor4G": {
+      "value": 4000.0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableNewPictureLib": {
+      "value": false,
+      "vartag": "1"
+    },
+    "onGoingNotificationSwitch": {
+      "value": 1,
+      "vartag": "1"
+    },
+    "thanosFindLiveCoupon": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "ks_flutter_perf_blockmonitor": {
+      "value": {
+        "enable": "true",
+        "messageloopTimeOut": "1000000",
+        "checkPeriodTime": "500000",
+        "checkPeriodStackInterval": "50000",
+        "mainIsolateStackTraceCount": "20"
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_enable_js_bridge_online_request": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "yoda_merchant_no3": {
+      "value": false,
+      "vartag": "1"
+    },
+    "yoda_merchant_no2": {
+      "value": false,
+      "vartag": "1"
+    },
+    "yoda_merchant_no1": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableThanosTextureViewScale": {
+      "value": true,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "photosDownloadSizeConfig": {
+      "value": {
+        "avatar": [
+          60,
+          90,
+          200,
+          300,
+          450,
+          750
+        ]
+      },
+      "vartag": "0"
+    },
+    "enableOOMDumpHprof": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableAnonymousUser": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableNetworkConnectWaitInHodor": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "newEmptyPageSwitchInNasa": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "albumExportSessionHighQuality": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_enable_peer_render": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "closeAcquaintanceGuideTimeInterval": {
+      "value": 30,
+      "vartag": "0"
+    },
+    "hprof_enable_local_analysis_ratio": {
+      "value": 0.001,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "rewardPanelNewVersion": {
+      "value": 1,
+      "vartag": "0"
+    },
+    "nextFeedDuration": {
+      "value": 5,
+      "vartag": "0"
+    },
+    "yoda_enable_api_prefetch": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableNewImageProcessorInShareSDK": {
+      "value": true,
+      "vartag": "0"
+    },
+    "dns_resolve_config_urls": {
+      "value": "[]",
+      "vartag": "0"
+    },
+    "disableSig3OBF_iOS_Nebula": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableReactNativeForSearchMusicTab": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_enabled_4_code_entrance": {
+      "value": {
+        "web_url_handler": "1",
+        "app_qr_scan": "1",
+        "yoda_open_new_web_bridge": "0"
+      },
+      "vartag": "0"
+    },
+    "enableStagDeserializeOpt": {
+      "value": false,
+      "vartag": "2"
+    },
+    "enableRetryReinforcement": {
+      "value": false,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "StayProfileDuration": {
+      "value": 10000,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "enableShareAnyGlobalBackupData": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "nebulaLiveEntranceType": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "yodaWebviewProxyConfig": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "tube_state_close": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "maxAuthorTopCommentCount": {
+      "value": 1,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableDraftInProfile": {
+      "value": false,
+      "vartag": "0"
+    },
+    "enableSilentCancleLogs": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableFaceMagicLoadSwitch": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "selectionSearchBarStyle": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "enableHodorDownloadHttpDns": {
+      "value": true,
+      "vartag": "0"
+    },
+    "image_diplay_success_ratio": {
+      "value": 0.001,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableEmotionPackageListClientDefine": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disableAudioQueueStartWhenInit": {
+      "value": false,
+      "vartag": "1"
+    },
+    "slidePhotoPlayDurationInterval": {
+      "value": {
+        "enable": true,
+        "interval": [
+          500,
+          1000,
+          2000,
+          3000,
+          5000,
+          10000
+        ],
+        "num": 30
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "cronetInterceptorWhitelist": {
+      "value": "[\"*\"]",
+      "vartag": "1"
+    },
+    "adReportMmaTrack": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableTCMalloc": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "centerTextView": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableThanosUsePreloadWhenPullDown": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableUniversalLinkJumpDirectly": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableAudioTrackSync": {
+      "value": false,
+      "vartag": "1"
+    },
+    "disable_show_home_by_menu": {
+      "value": false,
+      "vartag": "1"
+    },
+    "post_event_upload": {
+      "value": true,
+      "vartag": "0"
+    },
+    "hprof_retry_times": {
+      "value": 3,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "onGoingNotificationStrategy": {
+      "value": 1,
+      "vartag": "1"
+    },
+    "takePhoneNumberTimeout": {
+      "value": 5,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableCronet": {
+      "value": true,
+      "vartag": "0"
+    },
+    "kdm_hodor_predownload_speed": {
+      "value": 8000,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableBottomFirstTwoTabSlide": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableHomeLoadLockOpt": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_web_enable_debugger": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enablePreLoadingFeatureComment": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "newImageMaxNumDecodedImage": {
+      "value": 6,
+      "vartag": "5"
+    },
+    "disableLiveAudienceFrameMetricsNew": {
+      "value": false,
+      "vartag": "1"
+    },
+    "coronaRecoTopFeedHide": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "disableVolumePreCreate": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "isDisableRetryCustomFFITrampolinesDylibWhenSystemFailed": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableStopLastVideoWhenEndDraging": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enablePatternTypeDynamicMonitor": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableNearbyPortalToast": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "sdMemoryCacheLimitRatio": {
+      "value": 0.0,
+      "vartag": "1"
+    },
+    "gamoraIOSRerankEnabled": {
+      "value": false,
+      "policy": 1,
+      "vartag": "1"
+    },
+    "profileStayTime": {
+      "value": 15,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "splashDiskMaxSize": {
+      "value": 200,
+      "vartag": "0"
+    },
+    "thanosReloadCommentsInMainThread": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableTokenDslTemplate": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_entry_black_list": {
+      "value": {},
+      "policy": 2,
+      "vartag": "1"
+    },
+    "adEnableTachikomaCard": {
+      "value": true,
+      "vartag": "0"
+    },
+    "yoda_enable_js_online_request_bridge": {
+      "value": {},
+      "policy": 2,
+      "vartag": "0"
+    },
+    "thanosEnableUpdateInResetCache": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableVideoStateEventExtra": {
+      "value": true,
+      "vartag": "0"
+    },
+    "createPlayerOptimization": {
+      "value": -1,
+      "vartag": "3"
+    },
+    "moodPhotoShowAssetPickerEntrance": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableSearchFPSMonitor": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enable_report_useful_class": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "yoda_clock_fetch_package_enable": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "PKG_64_USE_WEIBO_PIC": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "shareWechatMomentsChooseConfig": {
+      "value": {
+        "video": {
+          "title": "视频已保存到相册",
+          "message": "由于微信分享限制，你可以上传视频或者图片分享到朋友圈",
+          "actionTitle": "视频分享",
+          "otherTitle": "图片分享",
+          "downloadAgain": "点击重新下载",
+          "downloading": "下载中"
+        },
+        "image": {
+          "title": "图片已保存至相册",
+          "message": "请到朋友圈中主动上传图片给好友",
+          "actionTitle": "继续分享到朋友圈"
+        }
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "useDefalutLutThreshold": {
+      "value": 14,
+      "vartag": "1"
+    },
+    "thanosRerankParams": {
+      "value": "{\"realshowDebugLog\":1,\"rerankCount\":2,\"sodlerConfig\":{\"name\":\"libreco-diversity-lib.so\", \"url\":\"https://static.yximgs.com/udata/pkg/RECO-EDGE-RERANK/libreco-diversity-lib-20201027-v7a.so\",\"md5\":\"46b02c985ba7453fa3d8c7f49cf07c40\", \"url_arm64\":\"https://static.yximgs.com/udata/pkg/RECO-EDGE-RERANK/libreco-diversity-lib-20201027-arm64.so\",\"md5_arm64\":\"1fc56659f72749779b2142ac39d863cb\"}}",
+      "vartag": "4"
+    },
+    "downloadShowCancelButtonMinTimeInterval": {
+      "value": 15.0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableCoronaDetail": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "useKpMid": {
+      "value": false,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "switchEnableGrayVersionKsWebView": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enable_ksmatrixlog": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "relatedDataDelay": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableCheckEndLiveStatus": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "disableABExperimentInAppUsageEvent": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "disableClearCookieWhenSwitchAccount": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "yoda_wkwebview_white_list": {
+      "value": {},
+      "policy": 2,
+      "vartag": "1"
+    },
+    "yoda_ad_task_enabled": {
+      "value": true,
+      "vartag": "0"
+    },
+    "kwaiVideoLiveHEVCDecoderName": {
+      "value": "libks265dec",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "thanosFragmentLazyLayout": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "ios_safe_mode_config": {
+      "value": " ",
+      "policy": 2,
+      "vartag": "0"
+    },
+    "pdStartPlayThForSlide": {
+      "value": 600,
+      "vartag": "0"
+    },
+    "readLoginHistoryFromKeychain": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "aggregateRecoRealShow": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enablePMSSInfo": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableNewFollowFeeds": {
+      "value": true,
+      "vartag": "0"
+    },
+    "supportHDRWithAdditionalExport": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "unexposedAdUploadCount": {
+      "value": 5,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "flex_template_feed_video": {
+      "value": {},
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableGetPhoneNumberAtStartup": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableLowDevicePlayPerfOpt": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableNativeAlipay": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "teenageModeDialogDelayShow": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "kstLogConfig": {
+      "value": {
+        "outputLevel": "INFO",
+        "enableLog": true,
+        "enableDowngrade": true
+      },
+      "vartag": "0"
+    },
+    "disableThirdPartyOptions": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableSocialNewRedDot": {
+      "value": true,
+      "vartag": "0"
+    },
+    "isAdListReponseIOAsync": {
+      "value": true,
+      "vartag": "0"
+    },
+    "thanosPhotoThumbnailEnabled": {
+      "value": false,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "sideSquareExitTipsUseCover": {
+      "value": false,
+      "vartag": "0"
+    },
+    "enableKwaiFoodCover": {
+      "value": false,
+      "vartag": "1"
+    },
+    "cronetBlackListJson": {
+      "value": {
+        "list": [
+          "/rest/app/eshop",
+          "/rest/e/v1/item/ad"
+        ]
+      },
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableUrlSessionPreload": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableLowDeviceAsyncHandleConfigs": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableBaseQRCodeScan": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableAutolayout": {
+      "value": false,
+      "vartag": "1"
+    },
+    "krnBundlePreLoadList": {
+      "value": [],
+      "policy": 2,
+      "vartag": "1"
+    },
+    "playerHardwareVppBits": {
+      "value": 0,
+      "vartag": "0"
+    },
+    "EnableKeepAliveModule": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "hodor_resource_downloadertype": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "opt_nasa_layout": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableFeedRightPopTransitionErrorHandle": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "switchKsWebViewTestConfig": {
+      "value": {
+        "soLoadFailover": false
+      },
+      "vartag": "0"
+    },
+    "startJSRuntimeOnAppLaunch": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_disable_inject_kwai_white_list": {
+      "value": {
+        "kuaishou.com": [
+          {
+            "path": "/account/logout"
+          },
+          {
+            "path": "/weather/"
+          },
+          {
+            "path": "/2019-ncov"
+          },
+          {
+            "path": "/sign-in-v2/"
+          }
+        ],
+        "activity.m.kuaishou.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "wallet.m.kuaishou.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "verify.kuaishou.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "creator.kortatb.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "chenzhongtech.com": [
+          {
+            "path": "/activity/sidebar-no2"
+          }
+        ],
+        "app.viviv.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "m-vision.ketang.kuaishou.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "live.kuaishou.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "m.muyuanapp.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "cp.m.kuaishou.com": [
+          {
+            "path": "/"
+          }
+        ],
+        "webview-b.e.kuaishou.com": [
+          {
+            "path": "/"
+          }
+        ]
+      },
+      "policy": 2,
+      "vartag": "1"
+    },
+    "cdn_resource_log_ratio": {
+      "value": 1.0,
+      "vartag": "0"
+    },
+    "profileDesignStyleNew": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "yoda_sidebar_no3": {
+      "value": true,
+      "vartag": "0"
+    },
+    "yoda_sidebar_no2": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableShareADFeedDetailWithSDK": {
+      "value": true,
+      "vartag": "0"
+    },
+    "yoda_sidebar_no1": {
+      "value": true,
+      "vartag": "0"
+    },
+    "yoda_sidebar_no6": {
+      "value": true,
+      "vartag": "0"
+    },
+    "friendCyclePopTimeInterval": {
+      "value": 2592000,
+      "vartag": "0"
+    },
+    "yoda_sidebar_no5": {
+      "value": false,
+      "vartag": "1"
+    },
+    "yoda_sidebar_no4": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableMMKV": {
+      "value": false,
+      "vartag": "1"
+    },
+    "pymiRefreshIntervalTime": {
+      "value": 60,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "enableCommentsRequestAsync": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableViewNotLeaveCommentAbtest": {
+      "value": false,
+      "policy": 2,
+      "vartag": "2"
+    },
+    "SlideFollowShowMoreMinVideoDuration": {
+      "value": 10000,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "retryNetworkTimoutMs": {
+      "value": -1,
+      "policy": 2,
+      "vartag": "5"
+    },
+    "abtest_enableHomeFeedCellRestruct": {
+      "value": false,
+      "vartag": "1"
+    },
+    "enableSbeoSoLoad_Android_kuaishou": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    },
+    "networkDetectReason": {
+      "value": "{ \"reasons\":[ {\"desc\":\"无法播放\",\"needDetect\":true},{\"desc\":\"视频卡顿\",\"needDetect\":true},{\"desc\":\"画面模糊\",\"needDetect\":false},{\"desc\":\"画面花屏\",\"needDetect\":false} ] }",
+      "vartag": "0"
+    },
+    "nasaSlideMenuLazyLayout": {
+      "value": false,
+      "vartag": "2"
+    },
+    "enableSearchBackRefresh": {
+      "value": false,
+      "vartag": "1"
+    },
+    "slideGuideDurationDays": {
+      "value": 0,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "enableLibwebpDecoder": {
+      "value": false,
+      "policy": 2,
+      "vartag": "1"
+    },
+    "kwai_download_manager_upload_log": {
+      "value": true,
+      "policy": 3,
+      "vartag": "0"
+    },
+    "mini_config_kswebview_enable": {
+      "value": true,
+      "vartag": "0"
+    },
+    "enableUploadBaseStation": {
+      "value": true,
+      "policy": 2,
+      "vartag": "0"
+    }
+  },
+  "activityHints": [
+    {
+      "delayTime": 120,
+      "type": 1,
+      "hintIdList": []
+    }
+  ],
+  "enableRealtimeQosLog": true,
+  "courseSettingInfo": {
+    "show": true,
+    "text": "付费内容",
+    "iconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_paidcontent_1.png",
+    "linkUrl": "kwai://webview?hideToolBar=true&url=https%3A%2F%2Fm-vision.ketang.kuaishou.com%2Fhome%2Fsquare%2Fvision%3FhyId%3Dvision%26useH5Bar%3D1%26layoutType%3D4%26initialTabId%3D3%26channel%3DfromSideBar%26enableWK%3D1%26t%3D1608088808769"
+  },
+  "liveCommentMaxLength": 20,
+  "teenageModeFeatureConfig": {
+    "enableMessage": false,
+    "enablePostVideo": false,
+    "enableComment": false,
+    "enableShowLive": false,
+    "enableShare": false,
+    "enableShowProfile": false
+  },
+  "followFeedStyleInThanos": 0,
+  "effectBringToPreview": true,
+  "birthdayModifyThresholdBucketMonths": 6,
+  "resourcesDownloadConfig": {
+    "https": true,
+    "cdn_hosts": [
+      "tx2.a.yximgs.com",
+      "ali2.a.yximgs.com"
+    ]
+  },
+  "snapShowHour": 48,
+  "negativeFeedbackConfigMap": {
+    "frequentUser": {
+      "follow-photo": [
+        {
+          "id": "6",
+          "title": "移出常看的人",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/WEBSERVER-MOMENT-CDN/frequent_user/dislike_icon_author_normal.png",
+          "category": 0,
+          "actionType": 0
+        },
+        {
+          "id": "3",
+          "title": "取消关注",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/WEBSERVER-MOMENT-CDN/frequent_user/unfollow_icon_frequent_user.png",
+          "category": 1,
+          "actionType": 0
+        },
+        {
+          "id": "2",
+          "title": "反馈垃圾作品",
+          "subTitle": "低俗、标题党等",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/WEBSERVER-MOMENT-CDN/frequent_user/dislike_icon_trash_normal.png",
+          "category": 0,
+          "actionType": 0,
+          "detail": [
+            {
+              "detailId": "21",
+              "content": "作品质量差"
+            },
+            {
+              "detailId": "22",
+              "content": "色情低俗"
+            },
+            {
+              "detailId": "23",
+              "content": "作品引起不适"
+            },
+            {
+              "detailId": "24",
+              "content": "标题党、封面党、骗点击"
+            }
+          ]
+        }
+      ],
+      "follow-livestream": [
+        {
+          "id": "6",
+          "title": "移出常看的人",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/WEBSERVER-MOMENT-CDN/frequent_user/dislike_icon_author_normal.png",
+          "category": 0,
+          "actionType": 0
+        },
+        {
+          "id": "3",
+          "title": "取消关注",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/WEBSERVER-MOMENT-CDN/frequent_user/unfollow_icon_frequent_user.png",
+          "category": 1,
+          "actionType": 0
+        }
+      ]
+    },
+    "acquaintance": {
+      "unfollow-photo": [
+        {
+          "id": "2001",
+          "title": "不感兴趣",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_uninterested_normal.png",
+          "category": 0,
+          "actionType": 14
+        },
+        {
+          "id": "2002",
+          "title": "不看该作者",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_author_normal.png",
+          "category": 0,
+          "actionType": 15
+        },
+        {
+          "id": "2004",
+          "title": "不认识该作者",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_author_normal.png",
+          "category": 0,
+          "actionType": 15
+        }
+      ],
+      "follow-photo": [
+        {
+          "id": "2001",
+          "title": "不感兴趣",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_uninterested_normal.png",
+          "category": 0,
+          "actionType": 14
+        },
+        {
+          "id": "2002",
+          "title": "不看该作者",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_author_normal.png",
+          "category": 0,
+          "actionType": 15
+        },
+        {
+          "id": "2003",
+          "title": "取消关注",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_unfollow_normal.png",
+          "category": 1,
+          "actionType": 8
+        },
+        {
+          "id": "2004",
+          "title": "不认识该作者",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_author_normal.png",
+          "category": 0,
+          "actionType": 15
+        }
+      ]
+    }
+  },
+  "enableProfileFanstopEntance": true,
+  "sideBarNotifySkinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_notify_sf_3.png",
+  "phone_level": {
+    "render_perf": "20",
+    "common_perf": "9",
+    "status": 1
+  },
+  "followMomentPopupCloseTime": 24,
+  "backGroundConfig": {
+    "mainText": "即将进入后台播放模式",
+    "secondText": "快手随身听，把想听的揣兜里"
+  },
+  "bubblePriorityList": [
+    {
+      "id": 10101,
+      "prior": 1
+    },
+    {
+      "id": 10102,
+      "prior": 1
+    },
+    {
+      "id": 10300,
+      "prior": 1
+    },
+    {
+      "id": 10501,
+      "prior": 1
+    },
+    {
+      "id": 10301,
+      "prior": 1
+    },
+    {
+      "id": 10502,
+      "prior": 1
+    },
+    {
+      "id": 10401,
+      "prior": 1
+    },
+    {
+      "id": 10702,
+      "prior": 1
+    },
+    {
+      "id": 10701,
+      "prior": 1
+    },
+    {
+      "id": 10703,
+      "prior": 1
+    },
+    {
+      "id": 10602,
+      "prior": 1
+    },
+    {
+      "id": 10601,
+      "prior": 1
+    },
+    {
+      "id": 10603,
+      "prior": 1
+    },
+    {
+      "id": 10604,
+      "prior": 0
+    },
+    {
+      "id": 10803,
+      "prior": 1
+    },
+    {
+      "id": 10806,
+      "prior": 1
+    },
+    {
+      "id": 10805,
+      "prior": 0
+    },
+    {
+      "id": 10801,
+      "prior": 1
+    },
+    {
+      "id": 10802,
+      "prior": 1
+    },
+    {
+      "id": 10005,
+      "prior": 1
+    },
+    {
+      "id": 10004,
+      "prior": 1
+    },
+    {
+      "id": 10003,
+      "prior": 1
+    },
+    {
+      "id": 10002,
+      "prior": 1
+    },
+    {
+      "id": 10001,
+      "prior": 1
+    },
+    {
+      "id": 10605,
+      "prior": 1
+    },
+    {
+      "id": 10808,
+      "prior": 1
+    },
+    {
+      "id": 10304,
+      "prior": 1
+    }
+  ],
+  "encodeConfig": {
+    "x264Params": "cabac=1:mixed-refs=0:rc-lookahead=10:ref=1:subme=5:trellis=0:weightp=1:crf=23:qpmin=0:qpmax=69:merange=16:me=hex:scenecut=40:ipratio=1.4:qcomp=0.6:keyint=250:bframes=3:vbv_maxrate=2000:vbv_bufsize=4000",
+    "use265Encode": false,
+    "id": 6,
+    "videoQmax": 30
+  },
+  "disableForeignAppRegEntrance": true,
+  "fallbackable2CdnConfig": {
+    "sf2018": {}
+  },
+  "enableCreateGroupBubbleGuide": true,
+  "inAppReviewTriggers": {
+    "foregroundDuration": 240,
+    "actionCollect": 1,
+    "actionInEffectTimeRange": 604800,
+    "actionPay": 1,
+    "actionPostPhoto": 1,
+    "triggerDelay": 2,
+    "enablePopupBeforeReview": true,
+    "actionFollow": 1,
+    "actionForward": 1,
+    "actionLike": 1,
+    "triggerDuration": 864000,
+    "activeDays": 3,
+    "enableDateTrigger": false
+  },
+  "teenageMode": {
+    "antiAddictionDisableUseText": "为了保障充足的休息时间，您在每日晚10时至次日早6时期间无法使用快手，或由监护人输入密码后继续使用。",
+    "showPopupDialog": false,
+    "normalAntiAddictionDisableUseText": "为了保障充足的休息时间，您在每日晚10时至次日早6时期间无法使用快手，或由监护人输入密码后继续使用。",
+    "disableUseStartHour": 22,
+    "officialPhone": "4001260088",
+    "type": 0,
+    "canVerifyIdCard": false,
+    "protocolCheck": "我已阅读并同意",
+    "antiAddictionOverTimeText": "今日您已累计使用快手40分钟。根据青少年模式规则，今日无法继续使用，或由监护人输入密码后继续使用。请合理安排使用时间。",
+    "dialogCancelButtonText": "我知道了",
+    "teenageModeDesc": [
+      "在青少年模式中，我们精选了一批教育类、知识类等适合青少年用户观看的内容。",
+      "无法进行直播。",
+      "无法进行打赏、充值等操作。",
+      "自动开启时间锁，每天使用时长不超过40分钟，晚上10点至早上6点无法使用快手。",
+      "可以观看空中课堂的K12名师优质课程"
+    ],
+    "maxUsageMinutesOneDay": 40,
+    "antiAddictionDesc2": "自动开启时间锁，每天使用时长不超过40分钟，晚上10点至早上6点无法使用快手。",
+    "showPopupDialogTriggerSeconds": 0,
+    "protocolName": "《青少年守护协议及家长告知函》",
+    "enable": true,
+    "dialogContentText": "为呵护未成年人健康成长，快手特别推出青少年模式，该模式下部分功能无法正常使用。请监护人主动选择，并设置监护密码。",
+    "disableUseEndHour": 6,
+    "dialogConfirmButtonText": "设置青少年模式",
+    "normalAntiAddictionOverTimeText": "今日您已累计使用快手40分钟。根据青少年模式规则，今日无法继续使用，或由监护人输入密码后继续使用。请合理安排使用时间。",
+    "protocolToast": "请先阅读并勾选协议",
+    "protocolUrl": "https://app.m.kuaishou.com/public#/youth-protocol/",
+    "on": false
+  },
+  "merchantGeneralInfo": {
+    "merchantZkReadmeRemind": "此配置下不允许删除已上线的内容"
+  },
+  "liveGuestRTQosInterval": 10000,
+  "enableMomentNews": true,
+  "interestTagPopupWindowConfig": {
+    "enableInterestTagPopupWindow": false
+  },
+  "pokeInfos": {
+    "message": [
+      {
+        "pokeId": 1,
+        "pokeConditionId": 1
+      },
+      {
+        "pokeId": 2,
+        "pokeConditionId": 2
+      }
+    ]
+  },
+  "sideBarNewsIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_news_1.png",
+  "promptFollowByWatchingLiveText": "是否关注该主播？",
+  "h265_play_on": true,
+  "frequentSearchWordDef": {
+    "intervalInMs": 2592000000,
+    "times": 2048
+  },
+  "forwardPanelConfigV2": {
+    "default": {
+      "slideConfig": [
+        [
+          {
+            "name": "wechat"
+          },
+          {
+            "name": "wechatMoment"
+          },
+          {
+            "name": "qq"
+          },
+          {
+            "name": "qzone"
+          },
+          {
+            "name": "weibo"
+          }
+        ],
+        [
+          {
+            "name": "photoDownload"
+          },
+          {
+            "name": "copyLink"
+          }
+        ]
+      ],
+      "style": "SLIDE"
+    },
+    "photo": {
+      "slideConfig": [
+        [
+          {
+            "name": "wechat"
+          },
+          {
+            "name": "wechatWow"
+          },
+          {
+            "name": "wechatMoment"
+          },
+          {
+            "name": "qq"
+          },
+          {
+            "name": "qzone"
+          },
+          {
+            "name": "weibo"
+          }
+        ],
+        []
+      ],
+      "style": "SLIDE"
+    },
+    "liveStream": {
+      "slideConfig": [
+        [
+          {
+            "name": "wechat"
+          },
+          {
+            "name": "qq"
+          },
+          {
+            "name": "qzone"
+          },
+          {
+            "name": "weibo"
+          }
+        ],
+        [
+          {
+            "name": "photoDownload"
+          },
+          {
+            "name": "copyLink"
+          }
+        ]
+      ],
+      "blackList": [
+        {
+          "name": "wechatMoment"
+        },
+        {
+          "name": "liveStreamPromotion"
+        }
+      ],
+      "style": "SLIDE"
+    }
+  },
+  "pushGuideBannerControl": {
+    "bannerClickControl": [
+      {
+        "count": 2,
+        "threshold": 7
+      },
+      {
+        "count": 3,
+        "threshold": 30
+      },
+      {
+        "count": 4,
+        "threshold": 90
+      }
+    ],
+    "bannerShowControl": [
+      {
+        "count": 7,
+        "threshold": 30
+      },
+      {
+        "count": 10,
+        "threshold": 90
+      }
+    ]
+  },
+  "searchPageNegativeFeedbackConfig": {
+    "photo": [
+      {
+        "id": "1",
+        "title": "结果不相关",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/se-cdn/feedback_icon_irrelevant_light_l_normal.png"
+      },
+      {
+        "id": "2",
+        "title": "结果质量差或令人不适",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/se-cdn/feedback_icon_poor_light_l_normal.png"
+      },
+      {
+        "id": "3",
+        "title": "结果太老旧",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/se-cdn/feedback_icon_old_light_l_normal.png"
+      },
+      {
+        "id": "4",
+        "title": "不感兴趣",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/se-cdn/feedback_icon_dislike_light_l_normal.png"
+      }
+    ],
+    "live": [
+      {
+        "id": "1",
+        "title": "结果不相关",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/se-cdn/feedback_icon_irrelevant_light_l_normal.png"
+      },
+      {
+        "id": "2",
+        "title": "结果质量差或令人不适",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/se-cdn/feedback_icon_poor_light_l_normal.png"
+      },
+      {
+        "id": "4",
+        "title": "不感兴趣",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/se-cdn/feedback_icon_dislike_light_l_normal.png"
+      }
+    ]
+  },
+  "recoAfterPlayTriggerTime": 10000,
+  "minMomentShowCount": 1,
+  "shareConfig": {
+    "copylinkSuccessToast": "链接复制成功，快去分享给好友吧"
+  },
+  "momentBubbleMasterCount": 4,
+  "cameraActivity": {},
+  "ktvAccompanyVolume": 50,
+  "musicStationConfig": {
+    "refreshIntervalSeconds": 600
+  },
+  "updateUserNameTime": 2,
+  "enableShowGodComment": true,
+  "disableUseDepositCoupon": false,
+  "disabledPhotoAlbumDirs": [
+    ".+/(assets|westeros-assets|Kwai-video/filter_resource|pearl/emotion|flow/(banner|filter.*|crash|imageAd|swipeCard))/.*",
+    ".+/tencent/WeixinWork/doc/offlineRes/.*"
+  ],
+  "phoneLoginRegisterDefaultMode": 1,
+  "result": 1,
+  "allHotChannelList": [
+    {
+      "nameSc": "二次元",
+      "disableEdit": false,
+      "nameTc": "二次元",
+      "tabType": 1,
+      "nameEn": "Comics",
+      "name": "二次元",
+      "id": 4,
+      "isLive": false
+    },
+    {
+      "nameSc": "美食",
+      "disableEdit": false,
+      "nameTc": "美食",
+      "tabType": 1,
+      "nameEn": "Food",
+      "name": "美食",
+      "id": 11,
+      "isLive": false
+    },
+    {
+      "nameSc": "直播",
+      "disableEdit": false,
+      "nameTc": "直播",
+      "tabType": 2,
+      "nameEn": "Live",
+      "name": "直播",
+      "id": 29,
+      "isLive": true
+    },
+    {
+      "nameSc": "影视",
+      "disableEdit": false,
+      "nameTc": "影視",
+      "tabType": 1,
+      "nameEn": "TV",
+      "name": "影视",
+      "id": 25,
+      "isLive": false
+    },
+    {
+      "nameSc": "音乐",
+      "disableEdit": false,
+      "nameTc": "音樂",
+      "tabType": 1,
+      "nameEn": "Music",
+      "name": "音乐",
+      "id": 24,
+      "isLive": false
+    },
+    {
+      "nameSc": "明星",
+      "disableEdit": false,
+      "nameTc": "明星",
+      "tabType": 1,
+      "nameEn": "Celebrity",
+      "name": "明星",
+      "id": 14,
+      "isLive": false
+    },
+    {
+      "nameSc": "图集",
+      "disableEdit": false,
+      "nameTc": "圖集",
+      "tabType": 1,
+      "nameEn": "Image",
+      "name": "图集",
+      "id": 33,
+      "isLive": false
+    },
+    {
+      "nameSc": "游戏",
+      "disableEdit": false,
+      "nameTc": "遊戲",
+      "tabType": 1,
+      "nameEn": "Game",
+      "name": "游戏",
+      "id": 26,
+      "isLive": false
+    },
+    {
+      "nameSc": "短剧",
+      "disableEdit": false,
+      "nameTc": "短劇",
+      "tabType": 1,
+      "nameEn": "Story",
+      "name": "短剧",
+      "id": 3,
+      "isLive": false
+    },
+    {
+      "nameSc": "汽车",
+      "disableEdit": false,
+      "nameTc": "汽車",
+      "tabType": 1,
+      "nameEn": "Vehicle",
+      "name": "汽车",
+      "id": 17,
+      "isLive": false
+    },
+    {
+      "nameSc": "vlog",
+      "disableEdit": false,
+      "nameTc": "vlog",
+      "tabType": 1,
+      "nameEn": "vlog",
+      "name": "vlog",
+      "id": 1,
+      "isLive": false
+    },
+    {
+      "nameSc": "颜值",
+      "disableEdit": false,
+      "nameTc": "顏值",
+      "tabType": 1,
+      "nameEn": "Beauty",
+      "name": "颜值",
+      "id": 23,
+      "isLive": false
+    },
+    {
+      "nameSc": "情感",
+      "disableEdit": false,
+      "nameTc": "情感",
+      "tabType": 1,
+      "nameEn": "Emotion",
+      "name": "情感",
+      "id": 18,
+      "isLive": false
+    },
+    {
+      "nameSc": "穿搭",
+      "disableEdit": false,
+      "nameTc": "穿搭",
+      "tabType": 1,
+      "nameEn": "Outfit",
+      "name": "穿搭",
+      "id": 2,
+      "isLive": false
+    },
+    {
+      "nameSc": "手艺",
+      "disableEdit": false,
+      "nameTc": "手藝",
+      "tabType": 1,
+      "nameEn": "Crafts",
+      "name": "手艺",
+      "id": 6,
+      "isLive": false
+    },
+    {
+      "nameSc": "探店",
+      "disableEdit": false,
+      "nameTc": "探店",
+      "tabType": 1,
+      "nameEn": "TryOut",
+      "name": "探店",
+      "id": 9,
+      "isLive": false
+    },
+    {
+      "nameSc": "旅行",
+      "disableEdit": false,
+      "nameTc": "旅行",
+      "tabType": 1,
+      "nameEn": "Travel",
+      "name": "旅行",
+      "id": 10,
+      "isLive": false
+    },
+    {
+      "nameSc": "美妆",
+      "disableEdit": false,
+      "nameTc": "美妝",
+      "tabType": 1,
+      "nameEn": "Makeups",
+      "name": "美妆",
+      "id": 12,
+      "isLive": false
+    },
+    {
+      "nameSc": "萌宠",
+      "disableEdit": false,
+      "nameTc": "萌寵",
+      "tabType": 1,
+      "nameEn": "Pets",
+      "name": "萌宠",
+      "id": 13,
+      "isLive": false
+    },
+    {
+      "nameSc": "书画",
+      "disableEdit": false,
+      "nameTc": "書畫",
+      "tabType": 1,
+      "nameEn": "Arts",
+      "name": "书画",
+      "id": 21,
+      "isLive": false
+    },
+    {
+      "nameSc": "萌娃",
+      "disableEdit": false,
+      "nameTc": "萌娃",
+      "tabType": 1,
+      "nameEn": "Baby",
+      "name": "萌娃",
+      "id": 27,
+      "isLive": false
+    },
+    {
+      "nameSc": "海外",
+      "disableEdit": false,
+      "nameTc": "海外",
+      "tabType": 1,
+      "nameEn": "Overseas",
+      "name": "海外",
+      "id": 28,
+      "isLive": false
+    },
+    {
+      "nameSc": "运动",
+      "disableEdit": false,
+      "nameTc": "運動",
+      "tabType": 1,
+      "nameEn": "Sports",
+      "name": "运动",
+      "id": 30,
+      "isLive": false
+    },
+    {
+      "nameSc": "舞蹈",
+      "disableEdit": false,
+      "nameTc": "舞蹈",
+      "tabType": 1,
+      "nameEn": "Dance",
+      "name": "舞蹈",
+      "id": 31,
+      "isLive": false
+    },
+    {
+      "nameSc": "热点",
+      "disableEdit": false,
+      "nameTc": "熱點",
+      "tabType": 1,
+      "nameEn": "Hot",
+      "name": "热点",
+      "id": 36,
+      "isLive": false
+    },
+    {
+      "nameSc": "广场舞",
+      "disableEdit": false,
+      "nameTc": "廣場舞",
+      "tabType": 1,
+      "nameEn": "Square dancing",
+      "name": "广场舞",
+      "id": 37,
+      "isLive": false
+    },
+    {
+      "nameSc": "体育",
+      "disableEdit": false,
+      "nameTc": "體育",
+      "tabType": 1,
+      "nameEn": "Sports games",
+      "name": "体育",
+      "id": 38,
+      "isLive": false
+    },
+    {
+      "nameSc": "爱逛街",
+      "disableEdit": false,
+      "nameTc": "愛逛街",
+      "tabType": 1,
+      "nameEn": "Shopping",
+      "name": "爱逛街",
+      "id": 40,
+      "isLive": false
+    },
+    {
+      "nameSc": "搞笑",
+      "disableEdit": false,
+      "nameTc": "搞笑",
+      "tabType": 1,
+      "nameEn": "Funny",
+      "name": "搞笑",
+      "id": 41,
+      "isLive": false
+    },
+    {
+      "nameSc": "健康",
+      "disableEdit": false,
+      "nameTc": "健康",
+      "tabType": 1,
+      "nameEn": "Health",
+      "name": "健康",
+      "id": 42,
+      "isLive": false
+    }
+  ],
+  "cameraShortcutConfig": {
+    "shortName": "快手速拍",
+    "iconUrl": "https://static.inkuai.com/udata/pkg/Applogo-192-circle-MYfrga.png",
+    "maxOpenCameraTimes": 4,
+    "resetInterval": 720,
+    "uploadThreshold": 2,
+    "maxShowTimes": 1
+  },
+  "uploadNoticeInfo": "快手鼓励原创作品，包含以下行为的作品将不会被推荐：\n1.作品中含有大量不文明用语；\n2.非正常途径导入视频；\n3.伪装他人身份，通过盗用作品骗取粉丝；\n4.在选取封面或标题文字中，有刻意哗众取宠，博取眼球的嫌疑。",
+  "enableIdcPthread": true,
+  "relationAliasModifyTime": 0,
+  "searchFeedBackEntrancePos": 20,
+  "nearbySchoolFillGuide": false,
+  "sharePanelInitInfo": "https://static.yximgs.com/udata/pkg/share-show-cover-url/sharePanel.2ce69c5bb882b5d9.json",
+  "enableFavoriteFollowing": true,
+  "liveAuthorRTQosInterval": 10000,
+  "liveSettingEntrance": {
+    "enableTeenagerMode": false,
+    "title": "开通直播",
+    "linkUrl": "https://app.m.kuaishou.com/live/apply",
+    "id": 0
+  },
+  "autoEliminateRedDotLevel": 3,
+  "enableLoginedResetPassword": true,
+  "liveStream": "hidden",
+  "shareTokenToastInterval": 3600,
+  "mainKmojiMagicFaceId": 3494,
+  "notifyMixConfig": {
+    "enableNewsDelete": false,
+    "enableNewsRedDot": false,
+    "enableFansUpdateInMessage": false,
+    "newFansThreshold": 3,
+    "showPymkThreshold": 5,
+    "enabled": false,
+    "enableV2": false
+  },
+  "forceSelectHomeType": 1,
+  "enableSocialABRefactor": true,
+  "refreshServiceTokenIntervalMs": 86400000,
+  "appReviewConfig": {
+    "coldBoot": false
+  },
+  "clientProtoLogBetaOn": true,
+  "enable360Clear": true,
+  "showCreateGroupBubbleGuideBadge": true,
+  "country": "CHN",
+  "disableInAppReview": true,
+  "sideBarNewsSkinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_news_sf_3.png",
+  "bubbleDesc": "使用粉丝头条曝光作品，增加粉丝。",
+  "profilePagePrefetchInfo": {
+    "profilePageType": 1
+  },
+  "maxPhotoCollectCount": 2000,
+  "enableSocialStartupRefactor": true,
+  "flashTemplateInfo": {
+    "iconUrl": "https://static.yximgs.com/udata/pkg/mainapp/kuaishan_entrance@3x.png"
+  },
+  "tubeFollowOfficial": {
+    "markedWord": "更新时提醒我",
+    "title": "开启更新提醒",
+    "content": "点击下方按钮关注<a href=\"kwai://profile/40300067\">小剧场官方号</a>接收更新提醒，未关注将无法收到作品更新消息"
+  },
+  "accountFreezeConfig": {
+    "accountFreezeH5Url": "https://app.m.kuaishou.com/account/freeze#/account?type=freeze",
+    "accountUnfreezeH5Url": "https://app.m.kuaishou.com/account/freeze#/account?type=unfreeze"
+  },
+  "rebindAppealOn": true,
+  "feedNegativeFeedback": {
+    "operatePhoto": [
+      {
+        "id": "13",
+        "title": "不感兴趣",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_uninterested_normal.png"
+      },
+      {
+        "id": "14",
+        "title": "不看该作者",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_author_normal.png"
+      },
+      {
+        "id": "15",
+        "title": "此类作品过多",
+        "subtitle": "减少推荐类似内容",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+      }
+    ],
+    "ad": [
+      {
+        "id": "5",
+        "title": "此类作品过多",
+        "subtitle": "减少推荐类似内容",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+      },
+      {
+        "id": "6",
+        "title": "作品质量差",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_trash_normal.png"
+      },
+      {
+        "id": "7",
+        "title": "不看该作者",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_author_normal.png"
+      }
+    ],
+    "liveSquare": [
+      {
+        "id": "11",
+        "title": "不再推荐该主播",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_author_normal.png"
+      },
+      {
+        "id": "12",
+        "title": "不感兴趣",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+      }
+    ],
+    "photo": [
+      {
+        "id": "1",
+        "title": "不感兴趣",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_uninterested_normal.png",
+        "feedBack": {
+          "content": "我要吐槽",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_feedback_normal.png"
+        }
+      },
+      {
+        "id": "2",
+        "title": "反馈垃圾作品",
+        "subtitle": "低俗、标题党等",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_trash_normal.png",
+        "detail": [
+          {
+            "detailId": "21",
+            "content": "作品质量差"
+          },
+          {
+            "detailId": "22",
+            "content": "色情低俗"
+          },
+          {
+            "detailId": "23",
+            "content": "作品引起不适"
+          },
+          {
+            "detailId": "24",
+            "content": "标题党、封面党、骗点击"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "不看该作者",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_author_normal.png"
+      },
+      {
+        "id": "4",
+        "title": "此类作品过多",
+        "subtitle": "减少推荐类似内容",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+      }
+    ],
+    "nearbyTemplate": [
+      {
+        "id": "16",
+        "title": "不感兴趣",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_uninterested_normal.png"
+      }
+    ],
+    "live": [
+      {
+        "id": "4",
+        "title": "不看该作者",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_author_normal.png"
+      },
+      {
+        "id": "6",
+        "title": "减少此类直播",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+      }
+    ],
+    "channelPhoto": [
+      {
+        "id": "1",
+        "title": "不感兴趣",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_uninterested_normal.png",
+        "feedBack": {
+          "content": "我要吐槽",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_feedback_normal.png"
+        }
+      },
+      {
+        "id": "2",
+        "title": "反馈垃圾作品",
+        "subtitle": "低俗、标题党等",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_trash_normal.png",
+        "detail": [
+          {
+            "detailId": "21",
+            "content": "作品质量差"
+          },
+          {
+            "detailId": "22",
+            "content": "色情低俗"
+          },
+          {
+            "detailId": "23",
+            "content": "作品引起不适"
+          },
+          {
+            "detailId": "24",
+            "content": "标题党、封面党、骗点击"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "不看该作者",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_author_normal.png"
+      },
+      {
+        "id": "10",
+        "title": "与频道不符",
+        "subtitle": "减少推荐类似内容",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+      }
+    ]
+  },
+  "hotChannelList": [
+    {
+      "nameSc": "影视",
+      "disableEdit": false,
+      "nameTc": "影視",
+      "tabType": 1,
+      "nameEn": "TV",
+      "name": "影视",
+      "id": 25,
+      "isLive": false
+    },
+    {
+      "nameSc": "明星",
+      "disableEdit": false,
+      "nameTc": "明星",
+      "tabType": 1,
+      "nameEn": "Celebrity",
+      "name": "明星",
+      "id": 14,
+      "isLive": false
+    },
+    {
+      "nameSc": "颜值",
+      "disableEdit": false,
+      "nameTc": "顏值",
+      "tabType": 1,
+      "nameEn": "Beauty",
+      "name": "颜值",
+      "id": 23,
+      "isLive": false
+    },
+    {
+      "nameSc": "情感",
+      "disableEdit": false,
+      "nameTc": "情感",
+      "tabType": 1,
+      "nameEn": "Emotion",
+      "name": "情感",
+      "id": 18,
+      "isLive": false
+    },
+    {
+      "nameSc": "图集",
+      "disableEdit": false,
+      "nameTc": "圖集",
+      "tabType": 1,
+      "nameEn": "Image",
+      "name": "图集",
+      "id": 33,
+      "isLive": false
+    },
+    {
+      "nameSc": "二次元",
+      "disableEdit": false,
+      "nameTc": "二次元",
+      "tabType": 1,
+      "nameEn": "Comics",
+      "name": "二次元",
+      "id": 4,
+      "isLive": false
+    }
+  ],
+  "videoMillisShort": 11500,
+  "othersProfilePagePYMKShowMore": true,
+  "enableShowIdCardVerify": true,
+  "accountAppealAntispamSwitch": true,
+  "disableHate": true,
+  "video_edit_music_on": true,
+  "oppoPushInit": true,
+  "remindNewFriendsCount": 1,
+  "accountCancelH5Url": "https://app.m.kuaishou.com/account/logout#/code",
+  "profileFollowTipDesc": "看我这么久了，关注一下吧～",
+  "enableThanosVersion": 0,
+  "api_success_log_ratio": 1.0,
+  "enableMerchantEntrance": false,
+  "followLiveStreamConfig": {
+    "maxPlayCount": 1,
+    "enableCommentBullet": true,
+    "maxPlaySeconds": 6,
+    "shownCommentMaxLength": 10,
+    "enableAutoPlayNoWifi": false,
+    "strategy": 1
+  },
+  "coverRedesignConfig": {
+    "enableDescriptionAreaShow": [],
+    "enableFontLight": [],
+    "enableNewCoverRedesign": []
+  },
+  "actionSurveyConfig": {
+    "interval": 86400000,
+    "actions": {
+      "LIKE": [
+        "LIKE",
+        "CANCEL_LIKE"
+      ],
+      "PLAY": [
+        "E1000"
+      ]
+    }
+  },
+  "enableH5VerifiedApply": true,
+  "foldupCommentThreshold": 50,
+  "enableUserSpecifiedTopPhotoInProfile": true,
+  "momentConfig": {
+    "enabledMixMode": false
+  },
+  "npsPopupConfig": {
+    "clientShowCnt": 0
+  },
+  "nearbyWireMagicFaceId": "4980",
+  "forwardPanelConfig": {
+    "oneRowConfig": [
+      {
+        "name": "photoRecommend"
+      },
+      {
+        "name": "im"
+      },
+      {
+        "name": "wechat"
+      },
+      {
+        "name": "wechatWow"
+      },
+      {
+        "name": "wechatMoment"
+      },
+      {
+        "name": "qq"
+      },
+      {
+        "name": "qzone"
+      },
+      {
+        "name": "weibo"
+      },
+      {
+        "name": "photoChorus"
+      },
+      {
+        "name": "photoSameFrame"
+      },
+      {
+        "name": "autoMode"
+      },
+      {
+        "name": "photoFollowShoot"
+      },
+      {
+        "name": "photoDownload"
+      },
+      {
+        "name": "photoCollection"
+      },
+      {
+        "name": "fansTop"
+      },
+      {
+        "name": "copyLink"
+      },
+      {
+        "name": "authorUnfollow"
+      }
+    ],
+    "twoRowConfig": [
+      [
+        {
+          "name": "photoRecommend"
+        },
+        {
+          "name": "im"
+        },
+        {
+          "name": "wechat"
+        },
+        {
+          "name": "wechatWow"
+        },
+        {
+          "name": "wechatMoment"
+        },
+        {
+          "name": "qq"
+        },
+        {
+          "name": "qzone"
+        },
+        {
+          "name": "weibo"
+        }
+      ],
+      [
+        {
+          "name": "photoChorus"
+        },
+        {
+          "name": "photoSameFrame"
+        },
+        {
+          "name": "autoMode"
+        },
+        {
+          "name": "photoFollowShoot"
+        },
+        {
+          "name": "photoDownload"
+        },
+        {
+          "name": "photoCollection"
+        },
+        {
+          "name": "fansTop"
+        },
+        {
+          "name": "copyLink"
+        },
+        {
+          "name": "authorUnfollow"
+        },
+        {
+          "name": "subtitle"
+        }
+      ]
+    ]
+  },
+  "apiRetryTimes": 3,
+  "enableNotifyV4": false,
+  "searchFeedbackPageUrl": "https://app.m.kuaishou.com/search/feedback",
+  "sideBarNotifyIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_notify_1.png",
+  "enableNotifyV3": true,
+  "gInsightOn": true,
+  "fullScreenFeedConfig": {
+    "screenClearSeconds": "5",
+    "tipsSeconds": "3"
+  },
+  "enableEmotion": true,
+  "enableGiftUnfollowUI": true,
+  "deepLinkSupportBackAppList": [
+    {
+      "name": "腾讯",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^gdt_laxin_.*",
+      "enableClose": false,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": true,
+      "hideIfNoBackData": true,
+      "backDataInfo": {
+        "backDataKey": "back_url",
+        "backDataPattern": "^(qqnews://|tenvideo2://).*",
+        "btnNameKey": "back_name",
+        "hideIfNoBackData": false,
+        "hideIfNoBtnName": true,
+        "backDataType": 2
+      }
+    },
+    {
+      "name": "OPPO浏览器",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^(oppo_adx_|oppo_xxl_).*",
+      "enableClose": false,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": true,
+      "hideIfNoBackData": true,
+      "backDataInfo": {
+        "backDataKey": "back_url",
+        "backDataPattern": "^(oppobrowser://|yoli://).*",
+        "btnNameKey": "btn_name",
+        "hideIfNoBackData": false,
+        "hideIfNoBtnName": true,
+        "backDataType": 2
+      }
+    },
+    {
+      "name": "QQ浏览器",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^(gdt_hytf_qqbrowser_|gdt_dtcy_qqbrowser_|gdt_callback_qqbrowser_|gdt_qqbrowser_laxin_).*|^gdt_qqbrowser_newuser$",
+      "enableClose": true,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": false
+    },
+    {
+      "name": "返回百度",
+      "iconUrl": "http://ali2.a.yximgs.com//uhead/AB/2018/06/08/16/BMjAxODA2MDgxNjA2NDBfMF91c2VyZ3JvdXAxX2x2.png",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^dsp_afd_.*",
+      "enableClose": false,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": false
+    },
+    {
+      "name": "WIFI万能钥匙",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^dsp_wifi_.*",
+      "enableClose": true,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": false
+    },
+    {
+      "name": "返回vivo",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^(dsp_vivo_|vivo_xxl_|vivo_adx_).*|^dsp_vivo$",
+      "enableClose": true,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": true,
+      "backDataInfo": {
+        "backDataKey": "backurl",
+        "backDataPattern": "^(vivobrowser://|vivovideo://).*",
+        "btnNameKey": "btn_name",
+        "hideIfNoBackData": true,
+        "hideIfNoBtnName": false,
+        "backDataType": 1
+      }
+    },
+    {
+      "name": "返回爱奇艺",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^aqy_lahuo$|^aqy_lahuo_.*|^adx_iqiyi$",
+      "enableClose": false,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": false
+    },
+    {
+      "name": "66铃声",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^66ring_.*",
+      "enableClose": true,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": false
+    },
+    {
+      "name": "返回百度APP",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^bd_app_partner_cc.*",
+      "enableClose": false,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": false
+    },
+    {
+      "name": "返回",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^pps_lahuo.*",
+      "enableClose": false,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": true,
+      "backDataInfo": {
+        "backDataKey": "backurl",
+        "backDataPattern": "^(hwpps://).*",
+        "hideIfNoBackData": false,
+        "hideIfNoBtnName": false,
+        "backDataType": 2
+      }
+    },
+    {
+      "name": "百度地图APP",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "BAIDUDITU_KP",
+      "enableClose": false,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": false
+    },
+    {
+      "name": "返回百度APP",
+      "iconUrl": "http://ali2.a.yximgs.com//uhead/AB/2018/06/08/16/BMjAxODA2MDgxNjA2NDBfMF91c2VyZ3JvdXAxX2x2.png",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "BAIDU_KP",
+      "enableClose": false,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": false
+    },
+    {
+      "name": "返回快影",
+      "textColor": "#FFFFFF",
+      "bgColor": "#CCFF5000",
+      "openFromRegex": "^kuaiying_.*",
+      "enableClose": true,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": false
+    },
+    {
+      "name": "返回百度",
+      "iconUrl": "http://ali2.a.yximgs.com//uhead/AB/2018/06/08/16/BMjAxODA2MDgxNjA2NDBfMF91c2VyZ3JvdXAxX2x2.png",
+      "textColor": null,
+      "bgColor": null,
+      "openFromRegex": "^sem_baidu_.*",
+      "enableClose": true,
+      "maxDisplayDuration": 600,
+      "exitKwaiAppDirectly": false,
+      "hideIfNoBackData": false
+    }
+  ],
+  "enableGetSideBarMoment": false,
+  "redDot": {
+    "enableRedDotTypes": [
+      1,
+      2,
+      3,
+      7
+    ],
+    "momentRedDot": 9,
+    "newsMomentSlideMenuTips": "有说说更新了",
+    "enableRedDotRanges": [
+      {
+        "start": 100001,
+        "end": 100999,
+        "rangeType": "privateMessageRedDot"
+      },
+      {
+        "start": 102000,
+        "end": 102999,
+        "rangeType": "news"
+      },
+      {
+        "start": 100,
+        "end": 265,
+        "rangeType": "notify"
+      },
+      {
+        "start": 267,
+        "end": 1000,
+        "rangeType": "notify"
+      }
+    ]
+  },
+  "enableHotCommentNewStyle": true,
+  "haveNewExperiment": true,
+  "bottomCoronaTab": [
+    {
+      "id": 1,
+      "name": "影视",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "name": "资讯",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "name": "美食",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "name": "游戏",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "name": "综艺",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "name": "动漫",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "name": "音乐",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "name": "体育",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "name": "生活",
+      "type": 0
+    }
+  ],
+  "enableCollectLocalMusic": true,
+  "preFetchConfig": {
+    "onlyDetailPage": true,
+    "maxPlayerCount": 5,
+    "preloadMsForOtherNet": 0,
+    "maxOfflineCacheCount": -1,
+    "bandWidthThreshold4G": 4096,
+    "prefetchQueueLen": 12,
+    "VodPausePreloadMaxCount": 5,
+    "hodorConfig": {
+      "preloadStrategy": 0,
+      "enableVodCacheMsThreshold": false,
+      "vodCacheMsThreshold": 3500,
+      "vodCacheKbThreshold": 600,
+      "vodPausePreloadMaxCount": 5,
+      "vodBufferLowRatio": 0.6,
+      "vodBufferReachMsThreshold": 2500
+    },
+    "VodCacheKbThreshold": 600,
+    "slidePrefetchConfig": "{\"config\": {\"timeout\": 3000,\"max_speed\": -1,\"wifi_only\": false, \"only_preload_under_speed\":-1, \"forbid_time\": 30000}, \"strategies\": [{\"offset\": 2,\"measurement\": 1,\"volume\": 409600},{\"offset\": 3,\"measurement\": 1,\"volume\": 409600},{\"offset\": 4,\"measurement\": 1,\"volume\": 409600},{\"offset\": 5,\"measurement\": 1,\"volume\": 409600}, {\"offset\": 2,\"measurement\": 1,\"volume\": 819200}, {\"offset\": 3,\"measurement\": 1,\"volume\": 819200}]}",
+    "disableProfilePhoto": false,
+    "pctrThreshold": 0.1,
+    "updateQWhileScroll": false,
+    "playerDelayTime": 0,
+    "offlineCache": true,
+    "filtrationQueueLen": 24,
+    "VodBufferLowRatio": 0.6,
+    "enableDetailPage": true,
+    "offlinecacheSpeed": -1,
+    "prftDisableCoverPause": true,
+    "httpdns": true,
+    "enablePrefetch": true,
+    "enableLimitSpeedWhenCancel": false,
+    "preloadMsFor4G": 4000,
+    "preloadMsForWiFi": 4000,
+    "delayStartMs": 1000,
+    "bandWidthThreshold": 10240
+  },
+  "searchUserTabPymkDailyCount": 5,
+  "giftComboExpireMs": 2000,
+  "godCommentDisplaySecond": 3,
+  "videoMillisLong": 60000,
+  "emotionQuickSendText": [
+    "[玫瑰]",
+    "[爱心]",
+    "[赞]",
+    "[666]",
+    "[火]",
+    "[笑哭]",
+    "[捂脸]",
+    "[奸笑]",
+    "[龇牙]",
+    "[愉快]"
+  ],
+  "commerce": {
+    "enable": "true",
+    "url": "https://webapp.kuaishou.com/businesscard/kwaitask-tasklist.html"
+  },
+  "payServiceTokenIntervalSeconds": 3600,
+  "hotLiveStreamConfig": {
+    "maxPlayCount": 1,
+    "enableCommentBullet": true,
+    "maxPlaySeconds": 6,
+    "shownCommentMaxLength": 10,
+    "strategy": 1
+  },
+  "enableFanstopForFriendsEntrance": true,
+  "loginAgreementUnchecked": true,
+  "liveRenderingMagicFaceSwitch": true,
+  "enableSystemPushDialogPeriod": 7,
+  "mediaPlayerConfig": "{\"spd_chg_en\":1,\"live_adapt_frame_drop_buf_threshold\":11}",
+  "hotWordSearchConfig": {
+    "hotDisplayInterval": 300,
+    "coldStartDisplayLimit": 3,
+    "dayDisplayLimit": 5,
+    "hotWordPriority": [
+      "operation",
+      "search"
+    ],
+    "repeatedDisplayDay": 3,
+    "repeatedDisplaySecond": 172800,
+    "playTimeTriggerMillis": 18000,
+    "triggerTypes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "enableGiftKeyframeAnimation": true,
+  "enableMerchantShopOuterEntrance": false,
+  "enableLiveGuestRTQosLog": true,
+  "disableShowProfileMusic": true,
+  "player_type": 3,
+  "qqConnectAuthScope": [
+    "get_simple_userinfo",
+    "get_info",
+    "get_user_profile",
+    "add_share",
+    "add_topic",
+    "list_album",
+    "upload_pic",
+    "add_album",
+    "add_t",
+    "add_pic_t",
+    "get_idollist"
+  ],
+  "enableNewLoginRegister": true,
+  "taskCenterConfig": {
+    "needSyncClientEvents": true
+  },
+  "enableUnifiedRedDot": true,
+  "jumpToNewKwai": false,
+  "publishOptions": [
+    "public",
+    "snapShow",
+    "private"
+  ],
+  "china": true,
+  "startupBirthdayInfo": {
+    "showBirthday": false
+  },
+  "recoAfterPlayMaxCards": 5,
+  "godCommentShowType": 1,
+  "tagLeaderboardEvent": [
+    "tag_watch_video",
+    "tag_photo_comment",
+    "tag_photo_like"
+  ],
+  "enablePrePipelineUploadWIFI": true,
+  "searchKboxEventShowCount": 3,
+  "allSideBarList": [
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_game_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/game_corona.0b810f58.png",
+      "title": "游戏",
+      "linkUrl": "https://sogame.kuaishou.com/gamecenter",
+      "redDotType": 1002,
+      "titleKey": "menu_game",
+      "id": 8
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_live_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/live_square_corona.7fbf1b00.png",
+      "title": "直播广场",
+      "linkUrl": "kwai://liveaggregatesquare?scene=2&sourceType=77&pageType=32167",
+      "redDotType": 1029,
+      "titleKey": "menu_live_square",
+      "id": 30,
+      "showBadge": true,
+      "badgeType": "showSideBarV3Badge2"
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_portfolio_sf_4.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/protofolio_corona.d37ef256.png",
+      "title": "本地作品集",
+      "linkUrl": "holder",
+      "redDotType": 1210,
+      "titleKey": "menu_local_album",
+      "id": 10
+    },
+    {
+      "enableTeenagerMode": true,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_scan_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/scan_corona.5fc9ff1b.png",
+      "title": "扫一扫",
+      "linkUrl": "holder",
+      "redDotType": 1211,
+      "titleKey": "menu_qr_code",
+      "id": 11
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_wallet_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/my_wallet_corona.9623f214.png",
+      "title": "我的钱包",
+      "linkUrl": "holder",
+      "redDotType": 1214,
+      "titleKey": "menu_wallet",
+      "id": 14
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_shop_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/shop_corona.33522d8e.png",
+      "title": "快手小店",
+      "linkUrl": "holder",
+      "redDotType": 1009,
+      "titleKey": "sidebar_shop_name_ab",
+      "id": 15
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_music_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/music_station_corona.c227dfb9.png",
+      "title": "音悦台",
+      "linkUrl": "kwai://musicstation?sourceType=78",
+      "redDotType": 1216,
+      "titleKey": "menu_music_station",
+      "id": 16
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_gamelive_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/game_tv_corona_1.png",
+      "title": "游戏TV",
+      "linkUrl": "kwai://gamezone/home?utm_source=sidebar_more_gamelive",
+      "redDotType": 1217,
+      "titleKey": "menu_game_live",
+      "id": 17
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_theater_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/sidebar_tube_corona_1.png",
+      "title": "小剧场",
+      "linkUrl": "kwai://tube/square?pageType=9",
+      "redDotType": 1218,
+      "titleKey": "menu_kwai_tube",
+      "id": 18
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_paidcontent_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/paid_content.4ecb5a72.png",
+      "title": "付费内容",
+      "linkUrl": "kwai://webview?hideToolBar=true&url=https%3A%2F%2Fm-vision.ketang.kuaishou.com%2Fhome%2Fsquare%2Fvision%3FhyId%3Dvision%26useH5Bar%3D1%26layoutType%3D4%26initialTabId%3D3%26channel%3DfromSideBar%26enableWK%3D1%26t%3D1608088808769",
+      "redDotType": 1219,
+      "id": 19
+    },
+    {
+      "enableTeenagerMode": true,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_service_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/custom_service_corona_1.png",
+      "title": "快手客服",
+      "linkUrl": "https://csc.m.kuaishou.com/help/index.html?enableWK=1&layoutType=4&hyId=kuaishou_csc#/?entranceId=1",
+      "redDotType": 1220,
+      "titleKey": "menu_customer_service",
+      "id": 20,
+      "teenagerModeLinkUrl": "kwai://message/40300103"
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR-ICON/sidebar_icon_classroom_m_normal.ca19a0fc.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/study_at_home_corona.4a7e6d1f.png",
+      "title": "在家学习",
+      "linkUrl": "https://m-vision.ketang.kuaishou.com/square/free-course?hyId=vision&channel=fromSideBarTop2&enableWK=1&useH5Bar=1&layoutType=4",
+      "redDotType": 1225,
+      "id": 25
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "",
+      "iconUrl": "https://static.yximgs.com/bs2/fes/admin_operation_sidebar_icon_ae963e72f83817714f3126e2a2349e7c.png",
+      "title": "创作者中心",
+      "linkUrl": "https://cp.m.kuaishou.com/creator-center/index.html?enableWK=1&layoutType=4&hyId=creator-center&from=sidebar_more",
+      "redDotType": 1050,
+      "titleKey": "sidebar_creator_center",
+      "id": 27,
+      "showBadge": true,
+      "ksOrderId": "SB-UB69UPB1KQPE",
+      "redDotKsOrderId": "",
+      "badgeType": "showSideBarV3Badge1"
+    },
+    {
+      "enableTeenagerMode": true,
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/image2020-8-7_16-22-51.png",
+      "title": "护苗在行动",
+      "linkUrl": "https://ppg.m.etoote.com/doodle/SvvgFzHE.html",
+      "redDotType": 1237,
+      "titleKey": "sidebar_care_action",
+      "id": 37,
+      "onlyTeenagerMode": true
+    },
+    {
+      "enableTeenagerMode": true,
+      "skinIconUrl": "",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/air_class.b6b417d6.png",
+      "title": "空中课堂",
+      "linkUrl": "https://ppg.m.chenzhongtech.com/doodle/o/moeiWvUO.html",
+      "redDotType": 1228,
+      "titleKey": "sidebar_air_class",
+      "id": 28,
+      "onlyTeenagerMode": true,
+      "ksOrderId": "S-33E1510AAC29",
+      "redDotKsOrderId": "S-6413BD7E7E73"
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/local_life_corona.a2ba6900.png",
+      "title": "本地生活",
+      "linkUrl": "https://webview-b.e.kuaishou.com/merchant-shop/?layoutType=4&enableWK=1&hyId=ks-fe-ll-merchant&_t=1605064989852#/?from=8knntiGf4",
+      "redDotType": 1229,
+      "titleKey": "sidebar_local_life",
+      "id": 29,
+      "ksOrderId": "S-84F97A4C68EC",
+      "redDotKsOrderId": "S-4E5556B1DFDF"
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/mini_program_corona.b7a8168b.png",
+      "title": "小程序",
+      "linkUrl": "ksminiapp://aggregate",
+      "redDotType": 1234,
+      "titleKey": "sidebar_mini_programs",
+      "id": 34,
+      "ksOrderId": "S-9AF7235BAAA2",
+      "redDotKsOrderId": "S-85411DC5271F"
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "",
+      "iconUrl": "https://static.yximgs.com/bs2/fes/admin_operation_sidebar_icon_94293d3db5048a6ee35959bd2c3a623b.png",
+      "title": "当天领8元",
+      "linkUrl": "https://demeter.kuaishou.com/fission/inkwai/invite?hyId=kwai_fission&source=main11021",
+      "redDotType": 1239,
+      "id": 39,
+      "ksOrderId": "S-851CD386288C",
+      "redDotKsOrderId": "S-FD402BCFFBC0"
+    }
+  ],
+  "coronaTwoTupleTab": [
+    {
+      "id": 1,
+      "name": "影视",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "name": "动漫",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "name": "美食",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "name": "游戏",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "name": "音乐",
+      "type": 0
+    }
+  ],
+  "enableRickonUpload": true,
+  "enableTaoPass": true,
+  "enableFollowHotRecall": false,
+  "abServiceTokenIntervalSeconds": 864000,
+  "shareToFollowConfig": {
+    "maxTimesPerDay": 10,
+    "enableShareToFollow": true
+  },
+  "multiRateConfig": {
+    "qualityList": [
+      {
+        "text": "1080p",
+        "qualityShow": "_1080P"
+      },
+      {
+        "text": "1080p",
+        "qualityShow": "1080p"
+      },
+      {
+        "text": "高清",
+        "qualityShow": "SUPER"
+      },
+      {
+        "text": "高清",
+        "qualityShow": "720p"
+      },
+      {
+        "text": "标清",
+        "qualityShow": "HIGH"
+      },
+      {
+        "text": "标清",
+        "qualityShow": "576p"
+      },
+      {
+        "text": "流畅",
+        "qualityShow": "STANDARD"
+      },
+      {
+        "text": "流畅",
+        "qualityShow": "480p"
+      }
+    ]
+  },
+  "enableFanstopFlameEntrance": true,
+  "liveStreamLongPressCopyEnabled": true,
+  "momentBubbleGuestCount": 8,
+  "ksAdXPath": "(function(){if(typeof _ks_trace!=='object'){var ksscript=document.createElement('script');ksscript.setAttribute('charset', 'utf-8');ksscript.src='https://static.yximgs.com/udata/pkg/ks-ad-trace-sdk/ks-trace-xpath.2.3.min.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ksscript,s)}})()",
+  "enableOpenFriend": true,
+  "emotionLatestVersion": 37,
+  "friendSources": [
+    "CONTACTS"
+  ],
+  "enableScreenshotFeedback": true,
+  "ispLoginConfig": {
+    "enableLogin": true
+  },
+  "enableFanstopForOthersEntrance": true,
+  "advEditStrategy": 0,
+  "liveConfig": {
+    "disableStartBet": true,
+    "useAryaSdk": true,
+    "disableLiveRiddle": true,
+    "disableShowInvitationEntrance": true,
+    "disableShowQuizRecord": true,
+    "enableClickHeadOnQuizAwardList": true,
+    "enableTuhaoOfflineConfigurable": true,
+    "disableFloatingWindow": true,
+    "enableAuthorReportLocation": true,
+    "defaultTuhaoOfflineConfig": false,
+    "enablePkStutterPrompt": true,
+    "disableBindPhoneBeforeAnswerQuiz": true,
+    "disableLiveVoiceToTextComment": true,
+    "disableStartQuiz": true,
+    "enableGiftStutterPrompt": true,
+    "disableGameLiveRevision": false
+  },
+  "photoReward": {
+    "bubbleMaxCount": 10,
+    "levelAnimation": "https://static.yximgs.com/udata/pkg/webserver/rewardv11.zip",
+    "giftAndLevelAnimation": "https://static.yximgs.com/udata/pkg/webserver/reward/panelV2Gift_v1.zip"
+  },
+  "feedRealActions": {
+    "follow": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "nearby": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "teenageModeAppealsUrl": "https://app.m.kuaishou.com/account/young-password?disableChildLockTipsDialog=true#/choose",
+  "im": {
+    "enableVideoCoverByFrame": true,
+    "publicGroupMaxUnconfirmedInviteMemberCount": 40,
+    "imCustomerServiceChatDetailConfig": {
+      "MERCHANT": {
+        "actionbarTopRightIcon": "https://static.yximgs.com/udata/pkg/IM-CDN/merchant_right_icon.png",
+        "inputBarStyle": "showOnlyEmotionAndMore",
+        "morePanelShowButtons": [
+          "pictures",
+          "camera",
+          "merchantCSEvaluation",
+          "merchantOrder",
+          "merchantCommodity"
+        ],
+        "enableReadedReceipt": true,
+        "enableShowSingleChatUserName": true
+      },
+      "adIm": {
+        "actionbarTopRightIcon": "https://static.yximgs.com/udata/pkg/IM-CDN/adim_right_icon.png",
+        "inputBarStyle": "showOnlyMore",
+        "morePanelShowButtons": [
+          "pictures",
+          "camera"
+        ],
+        "enableReadedReceipt": true,
+        "enableShowSingleChatUserName": true
+      },
+      "MiniProgram": {
+        "inputBarStyle": "showOnlyMore",
+        "morePanelShowButtons": [
+          "pictures",
+          "camera"
+        ]
+      },
+      "only_message_test_1": {
+        "actionbarTopRightIcon": "http://js-ec.static.yximgs.com/udata/pkg/ks-merchant/customerservicecard3x202008310851.png",
+        "inputBarStyle": "showAll",
+        "morePanelShowButtons": [
+          "pictures",
+          "camera"
+        ],
+        "enableReadedReceipt": true,
+        "enableShowSingleChatUserName": true
+      },
+      "only_message_test_2": {
+        "actionbarTopRightIcon": "http://ali-static.game.yximgs.com/im/files/a5a6hm3ub1m78la3yb53bvks8fjx63i0g75.jpg",
+        "inputBarStyle": "showOnlyMore",
+        "morePanelShowButtons": [
+          "pictures",
+          "camera"
+        ],
+        "enableReadedReceipt": true,
+        "enableShowSingleChatUserName": true
+      }
+    },
+    "conversationDetailWhitelist": [
+      {
+        "threadId": "40300092",
+        "conversationType": 0,
+        "urls": [
+          "https://im.kwaixiaodian.com/h5/notice_center?layoutType=3&role=2&hyId=kshopim&from=sixin"
+        ]
+      },
+      {
+        "threadId": "40300197",
+        "conversationType": 0,
+        "urls": [
+          "https://adim.kuaishou.com/h5?layoutType=4"
+        ]
+      }
+    ],
+    "maxGroupDescSize": 500,
+    "pictureQuickSendConfig": {
+      "latestPictureTime": 15,
+      "bubbleDuration": 4
+    },
+    "maxShowShareListCount": 7,
+    "supportImGroup": true,
+    "enableAnonymousLinkConnection": true,
+    "privateGroupMaxUnconfirmedInviteMemberCount": 40,
+    "imSceneMonitorDelayMillis": 3000,
+    "siXinServiceTokenIntervalSeconds": 3600,
+    "enableProfileDisplayPublicGroup": true,
+    "shareIMConfig": {
+      "shareCountThreshold": 1,
+      "recentDayThreshold": 15,
+      "recentSessionCount": 100
+    },
+    "enableMessageUserRecommendSessionLimit": 9,
+    "imSceneMonitorInterval": 5,
+    "videoMessageSendingPermission": {
+      "c2c": true,
+      "publicGroup": true,
+      "privateGroup": true
+    },
+    "enableIMImageCompressOptimize": true,
+    "enableAudioPrivateMessage": true,
+    "enableMiniGame": true,
+    "enableMessageSendingLogInMainThread": true,
+    "mediaMessageMonitorRate": 0.0,
+    "pokeResourceConfig": {
+      "resources": [
+        {
+          "cdnUrl": "http://js2.a.yximgs.com/bs2/privateMessageImage/2pdz81xw4bcu5b4al4gc1uf0jt294i07vylbr676wlbu3fmozrzaf.png"
+        },
+        {
+          "cdnUrl": "http://js2.a.yximgs.com/bs2/privateMessageImage/2pdz81xw4bcu5b4al4gc1uf0jt294i07vylbr66g746j769tlop5z.png"
+        },
+        {
+          "cdnUrl": "http://js2.a.yximgs.com/bs2/privateMessageImage/r0s8onnf1iq6kzuo80wcqsginx907m8esemj0g5azqo78ycojs3lrjecn.png"
+        },
+        {
+          "cdnUrl": "http://js2.a.yximgs.com/bs2/privateMessageImage/2pdz81xw4bcu5b4al4gc1uf0jt294i07vylbr66la2o5f96w31zs7.png"
+        },
+        {
+          "cdnUrl": "http://js2.a.yximgs.com/bs2/privateMessageImage/r0s8onnf1iq6kzuo80wcqsginx907m8esemj0fitu21uqpvznnvqqrq07.png"
+        }
+      ]
+    },
+    "enableConversationUpdateAnimation": true,
+    "enableRecentShareThreadOptimize": true,
+    "maxShareUserCount": 9,
+    "enableInAppThreadOptimize": true,
+    "userProfileGroupCount": 5,
+    "enableCreatePublicGroup": true,
+    "videoMessageMaxDuration": 60000,
+    "enableAsyncInitIMSDK": false,
+    "imMessageUploadMaxSize": 500,
+    "enableIMSceneMonitor": true,
+    "imSupportSubbizs": [
+      "MERCHANT",
+      "adIm"
+    ]
+  },
+  "displayMusicianPlanMusicTypes": [
+    4,
+    7,
+    8,
+    9
+  ],
+  "disableUseOldToken": false,
+  "surveyWithPhotoPageConfig": {
+    "f": {
+      "actions": {
+        "PLAY": [
+          "PHOTO_SHORT_PLAY_3000"
+        ]
+      },
+      "interval": 86400000
+    },
+    "n": {
+      "actions": {
+        "PLAY": [
+          "UN_FOLLOW_CLICK_AND_RETURN"
+        ],
+        "DECLINE": [
+          "DECLINE_10"
+        ]
+      },
+      "interval": 86400000
+    },
+    "acq": {
+      "actions": {
+        "PLAY": [
+          "UN_FOLLOW_CLICK_AND_RETURN"
+        ],
+        "DECLINE": [
+          "DECLINE_10"
+        ]
+      },
+      "interval": 86400000
+    }
+  },
+  "sandboxAssistantEnable": false,
+  "tabConfig": {
+    "topBar": [
+      {
+        "tabId": 2,
+        "tabName": "关注",
+        "tabNameEn": "Follow",
+        "tabNameTc": "追蹤"
+      },
+      {
+        "tabId": 3,
+        "tabName": "发现",
+        "tabNameEn": "Trend",
+        "tabNameTc": "熱門"
+      },
+      {
+        "tabId": 4,
+        "tabName": "同城",
+        "tabNameEn": "Nearby",
+        "tabNameTc": "同城"
+      }
+    ],
+    "bottomBar": [
+      {
+        "tabId": 1,
+        "tabName": "首页",
+        "tabNameEn": "Home",
+        "tabNameTc": "首頁",
+        "subTabList": [
+          {
+            "tabId": 2,
+            "tabName": "关注",
+            "tabNameEn": "Follow",
+            "tabNameTc": "追蹤"
+          },
+          {
+            "tabId": 3,
+            "tabName": "发现",
+            "tabNameEn": "Trend",
+            "tabNameTc": "熱門"
+          },
+          {
+            "tabId": 4,
+            "tabName": "同城",
+            "tabNameEn": "Nearby",
+            "tabNameTc": "同城"
+          }
+        ]
+      },
+      {
+        "tabId": 5,
+        "tabName": "精选",
+        "tabNameEn": "Featured",
+        "tabNameTc": "精選"
+      },
+      {
+        "tabId": 6,
+        "tabName": "消息",
+        "tabNameEn": "Message",
+        "tabNameTc": "消息"
+      },
+      {
+        "tabId": 7,
+        "tabName": "我",
+        "tabNameEn": "Me",
+        "tabNameTc": "我"
+      }
+    ]
+  },
+  "enableKsBeautify": true,
+  "frameUpload": {
+    "interval": 1000,
+    "batchSize": 2,
+    "maxFrameCount": 4
+  },
+  "httpDnsLogRatio": 1.0,
+  "incentiveActivityInfos": {
+    "sidebar": {
+      "iconUrl": "https://static.yximgs.com/bs2/fes/admin_operation_sidebar_icon_0ed6f1724ef93d06e725661b1009d8a5.png",
+      "text": "大家都在看",
+      "linkUrl": "https://m.chenzhongtech.com/ssr/sidebar-no2-v2/index?hyId=sidebar-no2-ssr&enableClip=1&uni_src=sidebar&webview=yoda&layoutType=4",
+      "color": "222222",
+      "ksOrderId": "SB-BYEVYGXPC5X5",
+      "redDotKsOrderId": "",
+      "darkModeColor": "E6E6E6"
+    }
+  },
+  "activityInfoListVersion": "-2128482400",
+  "enableVideoSlide": 0,
+  "followPageNegativeFeedbackConfig": {
+    "photo": [
+      {
+        "id": "1",
+        "title": "不感兴趣",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_uninterested_normal.png",
+        "feedBack": {
+          "content": "我要吐槽",
+          "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_feedback_normal.png"
+        }
+      },
+      {
+        "id": "2",
+        "title": "反馈垃圾作品",
+        "subtitle": "低俗、标题党等",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_trash_normal.png",
+        "detail": [
+          {
+            "detailId": "21",
+            "content": "作品质量差"
+          },
+          {
+            "detailId": "22",
+            "content": "色情低俗"
+          },
+          {
+            "detailId": "23",
+            "content": "作品引起不适"
+          },
+          {
+            "detailId": "24",
+            "content": "标题党、封面党、骗点击"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "取消关注",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_unfollow_normal.png"
+      },
+      {
+        "id": "4",
+        "title": "此类作品过多",
+        "subtitle": "减少推荐类似内容",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+      }
+    ],
+    "live": [
+      {
+        "id": "5",
+        "title": "减少此类直播",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+      },
+      {
+        "id": "3",
+        "title": "取消关注",
+        "iconImageUrl": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_unfollow_normal.png"
+      }
+    ]
+  },
+  "searchKboxEventAllShowCount": 6,
+  "gameCenterConfig": {
+    "visibleTabList": [
+      {
+        "configId": 0,
+        "hint": "",
+        "tabId": 11,
+        "tabName": "首页",
+        "icon": "",
+        "tabStyle": 2,
+        "bigIcon": ""
+      },
+      {
+        "configId": 0,
+        "hint": "",
+        "tabId": 6,
+        "tabName": "热门",
+        "icon": "",
+        "tabStyle": 2,
+        "bigIcon": ""
+      },
+      {
+        "configId": 0,
+        "hint": "",
+        "tabId": 7,
+        "tabName": "新游",
+        "icon": "",
+        "tabStyle": 2,
+        "bigIcon": ""
+      },
+      {
+        "configId": 0,
+        "hint": "",
+        "tabId": 2,
+        "tabName": "直播",
+        "icon": "",
+        "tabStyle": 2,
+        "bigIcon": ""
+      },
+      {
+        "configId": 0,
+        "hint": "",
+        "tabId": 12,
+        "tabName": "赛事",
+        "icon": "",
+        "tabStyle": 2,
+        "bigIcon": ""
+      }
+    ],
+    "isShowComment": true,
+    "isShowDownloadBroadcast": true,
+    "gameListRequestIntervalMs": 60000,
+    "isUserNativeGameDetail": true,
+    "isUseH5LiveTab": false,
+    "gameCenterUrl": "https://sogame.kuaishou.com/gamecenter",
+    "gameExploreUrl": "https://ppg.m.etoote.com/doodle/o/SsJSpIqj.html?hyId=doodle_SsJSpIqj",
+    "enableEntrance": true,
+    "festivalGiftUrl": "https://s4.static.yximgs.com/bs2/fes/game_1580011917215_.html?webview_bgcolor=%23D81224",
+    "isUseNativeDownloadPage": true,
+    "jumpToTab": 11,
+    "enableAutoDownloadGame": true,
+    "autoDownloadGameBlackPage": [],
+    "commonConfig": {
+      "isUseH5LiveTab": false,
+      "isReportVideoInfo": true,
+      "isShowComment": true,
+      "gameCenterUrl": "https://sogame.kuaishou.com/gamecenter",
+      "gameLiveUrl": "https://live.kuaishou.com/app/game?utm_source=sidebar_live_game_new&hide_navigation=true",
+      "gameExploreUrl": "https://ppg.m.etoote.com/doodle/o/SsJSpIqj.html?hyId=doodle_SsJSpIqj",
+      "enableAutoDownloadGame": true,
+      "autoDownloadGameBlackPage": [],
+      "gameListRequestIntervalMs": 60000,
+      "isShowDownloadBroadcast": true,
+      "isUserNativeGameDetail": true,
+      "isUseNativeDownloadPage": true,
+      "useGameNameOnTop": true,
+      "applyVideoTabNewStyle": true,
+      "autoInstall": false,
+      "videoInteractionGuideCount": 1,
+      "isDefaultMute": false,
+      "isShowDataRemindDialog": true,
+      "isShowPauseRemindDialog": true,
+      "isShowDownloadNotificationBar": true,
+      "isInstallGameSpeedup": true,
+      "isGameCenterFollowText": false,
+      "matchGameListUrl": "https://sogame.kuaishou.com/kwaigame/citygamelist",
+      "isAutoContinueDownload": false,
+      "downloadSpeedControl": 1,
+      "isGameCardNew": false,
+      "weakStyleExposureTime": 3000,
+      "isEnableHttpDns": true,
+      "downloadManagementType": 0
+    },
+    "gameLiveUrl": "https://live.kuaishou.com/app/game?utm_source=sidebar_live_game_new&hide_navigation=true",
+    "abName": "0-999新首页",
+    "isReportVideoInfo": true
+  },
+  "adItemAdSwitch": true,
+  "myfollowReservePosInSecond": 1800,
+  "uninstallAppDetainments": [
+    {
+      "icon": "https://static.yximgs.com/udata/pkg/kwai-client-image/rank.png",
+      "text": "快手热榜",
+      "scheme": "kwai://rank/aggregation?type=1"
+    },
+    {
+      "icon": "https://static.yximgs.com/udata/pkg/kwai-client-image/clean.png",
+      "text": "存储空间清理",
+      "scheme": "kwai://cleancachemiddle"
+    }
+  ],
+  "enableCollectVerticalClassification": true,
+  "searchUserTabPymkCount": 1,
+  "soundTrackPromoteAfterPlayTime": 2,
+  "registerAlertCount": 1,
+  "bootingCrashProtection": false,
+  "disableNewUserViaQuic": true,
+  "video_record_music_on": true,
+  "enableMyStoreBuyerOrder": true,
+  "liveStreamFragmentSharePanelText": "回放分享",
+  "maxProfileTopPhotoCount": 3,
+  "deviceBit": 0,
+  "enableSubtitleRecognition": true,
+  "share": {
+    "supportNewShare": true,
+    "photoShareGuideConfig": {
+      "photoShareGuide": true,
+      "minPlayDurationInSeconds": 15,
+      "enableRealTime": true,
+      "playTimes": 3,
+      "delayDurationInSeconds": 3,
+      "sharePlatform": "wechat",
+      "textDisplayTimesPerDay": 3,
+      "enableLike": true
+    },
+    "clientShareRefactorEnabledModules": [
+      "merchant"
+    ],
+    "enableWechatWow": true,
+    "screenShotShareDays": 2,
+    "supportImGroupOnShare": true,
+    "screenShotShareTimes": 999,
+    "enableSnapshotShare": true,
+    "screenShotShareShowSeconds": 5
+  },
+  "likeActivityResourceConfig": {
+    "startTimestampMs": 1,
+    "endTimestampMs": 1882168433000,
+    "resourceUrl": "https://static.yximgs.com/udata/pkg/KS-FT-_like_resources/1585622210195.zip",
+    "displayStyle": 1
+  },
+  "birthdayModifyThresholdLimit": 1,
+  "minFollowMomentCount": 2,
+  "privateMessageConfig": {
+    "enableMixMode": false
+  },
+  "gzoneConfig": {
+    "shareCoverUrl": "https://static.yximgs.com/udata/pkg/WEB-LIVE/game_img_share_cover_loaded.png",
+    "shareHost": "live.kuaishou.com"
+  },
+  "disableMusicianWithdraw": true,
+  "intelligenceAlbumConfig": {
+    "nonFreqCityConfig": {
+      "minPhotoNumPerDay": 8,
+      "minPhotoNumPerHour": 5,
+      "minPhotoNumToMachinePerHour": 2
+    },
+    "freqCityConfig": {
+      "minPhotoNumPerDay": 8,
+      "minPhotoNumPerHour": 5,
+      "minPhotoNumToMachinePerHour": 2
+    }
+  },
+  "disableSwitchKaraoke": true,
+  "socket_speed_test_on": true,
+  "dialogConfig": [
+    {
+      "id": 55,
+      "type": 1
+    },
+    {
+      "id": 88,
+      "type": 1
+    },
+    {
+      "id": 101,
+      "type": 2
+    },
+    {
+      "id": 93,
+      "type": 2
+    },
+    {
+      "id": 65,
+      "type": 2
+    },
+    {
+      "id": 64,
+      "type": 2
+    },
+    {
+      "id": 73,
+      "type": 2
+    },
+    {
+      "id": 69,
+      "type": 2
+    },
+    {
+      "id": 68,
+      "type": 2
+    },
+    {
+      "id": 67,
+      "type": 2
+    },
+    {
+      "id": 50,
+      "type": 2
+    },
+    {
+      "id": 51,
+      "type": 2
+    },
+    {
+      "id": 47,
+      "type": 2
+    },
+    {
+      "id": 48,
+      "type": 1
+    },
+    {
+      "id": 49,
+      "type": 2
+    },
+    {
+      "id": 52,
+      "type": 2
+    },
+    {
+      "id": 24,
+      "type": 2
+    },
+    {
+      "id": 105,
+      "type": 2
+    },
+    {
+      "id": 98,
+      "type": 2
+    },
+    {
+      "id": 100,
+      "type": 2
+    },
+    {
+      "id": 95,
+      "type": 2
+    },
+    {
+      "id": 107,
+      "type": 2
+    },
+    {
+      "id": 106,
+      "type": 2
+    },
+    {
+      "id": 103,
+      "type": 2
+    },
+    {
+      "id": 13,
+      "type": 3
+    },
+    {
+      "id": 104,
+      "type": 2
+    },
+    {
+      "id": 15,
+      "type": 2
+    },
+    {
+      "id": 94,
+      "type": 2
+    },
+    {
+      "id": 19,
+      "type": 2
+    },
+    {
+      "id": 54,
+      "type": 3
+    },
+    {
+      "id": 53,
+      "type": 3
+    },
+    {
+      "id": 90,
+      "type": 2
+    },
+    {
+      "id": 46,
+      "type": 3
+    },
+    {
+      "id": 89,
+      "type": 2
+    },
+    {
+      "id": 21,
+      "type": 3
+    },
+    {
+      "id": 45,
+      "type": 3
+    },
+    {
+      "id": 22,
+      "type": 3
+    },
+    {
+      "id": 23,
+      "type": 2
+    },
+    {
+      "id": 71,
+      "type": 3
+    },
+    {
+      "id": 43,
+      "type": 2
+    },
+    {
+      "id": 70,
+      "type": 3
+    },
+    {
+      "id": 99,
+      "type": 3
+    },
+    {
+      "id": 102,
+      "type": 3
+    },
+    {
+      "id": 27,
+      "type": 3
+    },
+    {
+      "id": 29,
+      "type": 2
+    },
+    {
+      "id": 30,
+      "type": 2
+    },
+    {
+      "id": 33,
+      "type": 3
+    },
+    {
+      "id": 34,
+      "type": 3
+    },
+    {
+      "id": 35,
+      "type": 3
+    },
+    {
+      "id": 38,
+      "type": 3
+    },
+    {
+      "id": 42,
+      "type": 2
+    },
+    {
+      "id": 91,
+      "type": 3
+    },
+    {
+      "id": 108,
+      "type": 2
+    },
+    {
+      "id": 66,
+      "type": 2
+    }
+  ],
+  "enableBackButtonRefresh": true,
+  "followMomentInterval": 60,
+  "negativeFeedback": {
+    "aggregateLiveNegativeSuccess": "操作成功，将减少此类直播推荐",
+    "aggregateLiveNegativeText": "减少推荐此类直播"
+  },
+  "multiBackgroundMaxCount": 1,
+  "dominoClickLogDelay": 7,
+  "searchSuggestInterval": 200,
+  "enableSystemPushBannerPeriod": 1,
+  "profileGuideFollow": {
+    "showFollowGuideFrequency": 10000,
+    "likePhotoThreshold": 1,
+    "showFollowGuideInterval": 1
+  },
+  "importAlbumReminder": {
+    "remindPast": 1800,
+    "remindInterval": 1
+  },
+  "publishTaskInfo": {
+    "merchantAndTaskText": "关联商品或任务",
+    "merchantText": "关联商品",
+    "taskText": "关联任务"
+  },
+  "OOMDetector": false,
+  "nearbyFilterBoxes": [
+    {
+      "name": "time",
+      "displayText": "时间",
+      "options": [
+        {
+          "name": "time-default",
+          "displayText": "默认推荐",
+          "remindTag": null,
+          "isDefault": true
+        },
+        {
+          "name": "1",
+          "displayText": "1天内",
+          "remindTag": null,
+          "isDefault": false
+        },
+        {
+          "name": "7",
+          "displayText": "7天内",
+          "remindTag": null,
+          "isDefault": false
+        },
+        {
+          "name": "30",
+          "displayText": "1个月内",
+          "remindTag": null,
+          "isDefault": false
+        }
+      ]
+    }
+  ],
+  "enableCollect": true,
+  "homeTitleReminderMessageStyle": 0,
+  "enableReportTriggerPushEvent": true,
+  "followMoreLiveMaxRetryTimes": 3,
+  "profileFanstopEntranceName": "粉丝头条",
+  "syncNtpSuccessLogRatio": 0.01,
+  "thirdPartyShareConfig": {
+    "appAuthorization": {
+      "defaultProfileId": 0,
+      "mapping": [
+        {
+          "profileId": 1,
+          "appIds": [
+            "com.kwai.videoeditor"
+          ]
+        },
+        {
+          "profileId": 2,
+          "appIds": [
+            "com.kwai.m2u",
+            "com.mvmaster.videomaker.china"
+          ]
+        },
+        {
+          "profileId": 3,
+          "appIds": [
+            "com.kwai.game.ddz",
+            "com.kwai.livepartner",
+            "com.nomoga.yzg.kuaishou"
+          ]
+        },
+        {
+          "profileId": 4,
+          "appIds": [
+            "com.tencent.itop.example",
+            "com.tencent.tmgp.vgame",
+            "com.zhwyd.racingtogether2.official",
+            "com.kuniu.hsfx.kuaishou"
+          ]
+        },
+        {
+          "profileId": 5,
+          "appIds": [
+            "com.drift.driftapp",
+            "com.zhiyun.zyplay",
+            "com.zhiyun.cama",
+            "com.kwai.chat.demo"
+          ]
+        }
+      ]
+    },
+    "profiles": [
+      {
+        "id": 0,
+        "allowTag": false,
+        "allowExtraInfo": false,
+        "allowSoundTrack": false,
+        "videoPreClip": {
+          "allow": true,
+          "maxPartCount": 31
+        }
+      },
+      {
+        "id": 1,
+        "allowTag": true,
+        "allowExtraInfo": true,
+        "allowSoundTrack": true,
+        "singlePictureEdit": {
+          "allow": true
+        },
+        "singlePictureShare": {
+          "allow": true
+        },
+        "videoPreClip": {
+          "allow": true,
+          "maxPartCount": 31
+        },
+        "videoEdit": {
+          "allow": true,
+          "maxDuration": 600000
+        },
+        "videoPublish": {
+          "allow": true,
+          "allowCover": true,
+          "maxDuration": 600000
+        }
+      },
+      {
+        "id": 2,
+        "allowTag": true,
+        "allowExtraInfo": true,
+        "allowSoundTrack": false,
+        "singlePictureEdit": {
+          "allow": true
+        },
+        "singlePictureShare": {
+          "allow": true
+        },
+        "videoPreClip": {
+          "maxPartCount": 31
+        },
+        "videoEdit": {
+          "allow": true,
+          "maxDuration": 57500
+        },
+        "videoPublish": {
+          "allow": true,
+          "allowCover": true,
+          "maxDuration": 57500
+        }
+      },
+      {
+        "id": 3,
+        "allowTag": true,
+        "allowExtraInfo": true,
+        "allowSoundTrack": false,
+        "videoPreClip": {
+          "allow": true,
+          "maxPartCount": 31
+        },
+        "singlePictureEdit": {
+          "allow": true
+        }
+      },
+      {
+        "id": 4,
+        "allowTag": true,
+        "allowExtraInfo": true,
+        "allowSoundTrack": false,
+        "videoPreClip": {
+          "allow": true,
+          "maxPartCount": 31
+        }
+      },
+      {
+        "id": 5,
+        "allowTag": false,
+        "allowExtraInfo": true,
+        "allowSoundTrack": false,
+        "videoPreClip": {
+          "allow": true,
+          "maxPartCount": 31
+        },
+        "videoAICut": {
+          "allow": true,
+          "maxPartCount": 31
+        }
+      }
+    ]
+  },
+  "showDenyDownloadSwitch": true,
+  "roamingHotFeedExp": false,
+  "recoHotChannelList": [
+    {
+      "nameSc": "二次元",
+      "disableEdit": false,
+      "nameTc": "二次元",
+      "tabType": 1,
+      "nameEn": "Comics",
+      "name": "二次元",
+      "id": 4,
+      "isLive": false
+    },
+    {
+      "nameSc": "美食",
+      "disableEdit": false,
+      "nameTc": "美食",
+      "tabType": 1,
+      "nameEn": "Food",
+      "name": "美食",
+      "id": 11,
+      "isLive": false
+    },
+    {
+      "nameSc": "影视",
+      "disableEdit": false,
+      "nameTc": "影視",
+      "tabType": 1,
+      "nameEn": "TV",
+      "name": "影视",
+      "id": 25,
+      "isLive": false
+    },
+    {
+      "nameSc": "音乐",
+      "disableEdit": false,
+      "nameTc": "音樂",
+      "tabType": 1,
+      "nameEn": "Music",
+      "name": "音乐",
+      "id": 24,
+      "isLive": false
+    },
+    {
+      "nameSc": "明星",
+      "disableEdit": false,
+      "nameTc": "明星",
+      "tabType": 1,
+      "nameEn": "Celebrity",
+      "name": "明星",
+      "id": 14,
+      "isLive": false
+    },
+    {
+      "nameSc": "图集",
+      "disableEdit": false,
+      "nameTc": "圖集",
+      "tabType": 1,
+      "nameEn": "Image",
+      "name": "图集",
+      "id": 33,
+      "isLive": false
+    },
+    {
+      "nameSc": "游戏",
+      "disableEdit": false,
+      "nameTc": "遊戲",
+      "tabType": 1,
+      "nameEn": "Game",
+      "name": "游戏",
+      "id": 26,
+      "isLive": false
+    },
+    {
+      "nameSc": "短剧",
+      "disableEdit": false,
+      "nameTc": "短劇",
+      "tabType": 1,
+      "nameEn": "Story",
+      "name": "短剧",
+      "id": 3,
+      "isLive": false
+    },
+    {
+      "nameSc": "汽车",
+      "disableEdit": false,
+      "nameTc": "汽車",
+      "tabType": 1,
+      "nameEn": "Vehicle",
+      "name": "汽车",
+      "id": 17,
+      "isLive": false
+    },
+    {
+      "nameSc": "vlog",
+      "disableEdit": false,
+      "nameTc": "vlog",
+      "tabType": 1,
+      "nameEn": "vlog",
+      "name": "vlog",
+      "id": 1,
+      "isLive": false
+    },
+    {
+      "nameSc": "颜值",
+      "disableEdit": false,
+      "nameTc": "顏值",
+      "tabType": 1,
+      "nameEn": "Beauty",
+      "name": "颜值",
+      "id": 23,
+      "isLive": false
+    },
+    {
+      "nameSc": "情感",
+      "disableEdit": false,
+      "nameTc": "情感",
+      "tabType": 1,
+      "nameEn": "Emotion",
+      "name": "情感",
+      "id": 18,
+      "isLive": false
+    },
+    {
+      "nameSc": "穿搭",
+      "disableEdit": false,
+      "nameTc": "穿搭",
+      "tabType": 1,
+      "nameEn": "Outfit",
+      "name": "穿搭",
+      "id": 2,
+      "isLive": false
+    },
+    {
+      "nameSc": "手艺",
+      "disableEdit": false,
+      "nameTc": "手藝",
+      "tabType": 1,
+      "nameEn": "Crafts",
+      "name": "手艺",
+      "id": 6,
+      "isLive": false
+    },
+    {
+      "nameSc": "探店",
+      "disableEdit": false,
+      "nameTc": "探店",
+      "tabType": 1,
+      "nameEn": "TryOut",
+      "name": "探店",
+      "id": 9,
+      "isLive": false
+    },
+    {
+      "nameSc": "旅行",
+      "disableEdit": false,
+      "nameTc": "旅行",
+      "tabType": 1,
+      "nameEn": "Travel",
+      "name": "旅行",
+      "id": 10,
+      "isLive": false
+    },
+    {
+      "nameSc": "美妆",
+      "disableEdit": false,
+      "nameTc": "美妝",
+      "tabType": 1,
+      "nameEn": "Makeups",
+      "name": "美妆",
+      "id": 12,
+      "isLive": false
+    },
+    {
+      "nameSc": "萌宠",
+      "disableEdit": false,
+      "nameTc": "萌寵",
+      "tabType": 1,
+      "nameEn": "Pets",
+      "name": "萌宠",
+      "id": 13,
+      "isLive": false
+    },
+    {
+      "nameSc": "书画",
+      "disableEdit": false,
+      "nameTc": "書畫",
+      "tabType": 1,
+      "nameEn": "Arts",
+      "name": "书画",
+      "id": 21,
+      "isLive": false
+    },
+    {
+      "nameSc": "萌娃",
+      "disableEdit": false,
+      "nameTc": "萌娃",
+      "tabType": 1,
+      "nameEn": "Baby",
+      "name": "萌娃",
+      "id": 27,
+      "isLive": false
+    },
+    {
+      "nameSc": "海外",
+      "disableEdit": false,
+      "nameTc": "海外",
+      "tabType": 1,
+      "nameEn": "Overseas",
+      "name": "海外",
+      "id": 28,
+      "isLive": false
+    },
+    {
+      "nameSc": "运动",
+      "disableEdit": false,
+      "nameTc": "運動",
+      "tabType": 1,
+      "nameEn": "Sports",
+      "name": "运动",
+      "id": 30,
+      "isLive": false
+    },
+    {
+      "nameSc": "舞蹈",
+      "disableEdit": false,
+      "nameTc": "舞蹈",
+      "tabType": 1,
+      "nameEn": "Dance",
+      "name": "舞蹈",
+      "id": 31,
+      "isLive": false
+    },
+    {
+      "nameSc": "热点",
+      "disableEdit": false,
+      "nameTc": "熱點",
+      "tabType": 1,
+      "nameEn": "Hot",
+      "name": "热点",
+      "id": 36,
+      "isLive": false
+    },
+    {
+      "nameSc": "广场舞",
+      "disableEdit": false,
+      "nameTc": "廣場舞",
+      "tabType": 1,
+      "nameEn": "Square dancing",
+      "name": "广场舞",
+      "id": 37,
+      "isLive": false
+    },
+    {
+      "nameSc": "体育",
+      "disableEdit": false,
+      "nameTc": "體育",
+      "tabType": 1,
+      "nameEn": "Sports games",
+      "name": "体育",
+      "id": 38,
+      "isLive": false
+    },
+    {
+      "nameSc": "搞笑",
+      "disableEdit": false,
+      "nameTc": "搞笑",
+      "tabType": 1,
+      "nameEn": "Funny",
+      "name": "搞笑",
+      "id": 41,
+      "isLive": false
+    }
+  ],
+  "systemPushAlertTime": 60,
+  "enableProfilePymkForEmtpyPhoto": true,
+  "enablePrivacyNewsSetting": true,
+  "realNameAuthenticationUrl": "https://app.m.kuaishou.com/unified/realname/index.html#/?bizNameForIdCardVerify=UNIFIED_VERIFY",
+  "newUserSlideStatus": 2,
+  "ksActivityConfig": {
+    "title": "看直播赢免费票",
+    "iconUrl": "http://js2.a.yximgs.com/udata/pkg/HottestAuthor/live_annual_ceremony_entrance_icon.png",
+    "entranceUrl": "kwai://live/play/jS7TB9OjB10?liveSource=sideBarPosition1&exp_tag=liveAnnualCeremony&internaljump=kwailive%3A%2F%2Fwebview%3Furl%3Dhttps%253A%252F%252Fm.viviv.com%252Factivity%252Fgrand-ceremony-20%252Findex.html%253FliveStreamId%253DjS7TB9OjB10%2526authorId%253D670333339%2526layoutType%253D3%2526inKwaiWK%253D1%2526source%253DsideBar%2523%252Ffree-ticket%26heightRatio%3D0.8",
+    "color": "FF5B5B",
+    "ksOrderId": "SB-7IHO6MVNMD30",
+    "redDotKsOrderId": "RD-PNDIMXTTB054-TQ2RX193WHNW",
+    "darkModeColor": "E6E6E6"
+  },
+  "injectH5SessionConfig": {
+    "injectCookie": [
+      "kuaishou.com",
+      "app.viviv.com",
+      "app.kwaixiaodian.com",
+      "www.kwaishop.com",
+      "im.kwaishop.com",
+      "m2u-api.getkwai.com",
+      "h5.getkwai.com",
+      "special.kuaishou.com",
+      "kuaishoupay.com",
+      "gifshow.com",
+      "viviv.com",
+      "kwaishop.com",
+      "getkwai.com",
+      "yximgs.com",
+      "xiatou.com",
+      "acfun.cn",
+      "kuaishou.cn",
+      "kuaishouzt.com",
+      "kwaizt.com",
+      "kstv.com",
+      "kuaijinniu.com",
+      "kwaishop.com",
+      "etoote.com",
+      "chenzhongtech.com",
+      "chenzhongkj.com",
+      "kwaixiaodian.com",
+      "kwaiying.com",
+      "kortatb.com",
+      "sm38g9v4orxkd2.com",
+      "get666bjt6ao7kxyiv8t.com",
+      "ccko7wxst4ekif.com",
+      "get666bjrqu985xvp14v.com",
+      "get666bjroqzvm5dmxe.com",
+      "xurcpq85avgcbd.com",
+      "mok8uptsmk19.com",
+      "uw36gicu5xav.com",
+      "v9kax8tsovbzr.com",
+      "awrzuqiekom68z.com",
+      "kuai666bjeve6ks43qyw4vc8.com",
+      "kuai666bjgkoe5u3rmhbd.com",
+      "kuai666bjs3gsymi6v4h5pz.com",
+      "kuai666bjxcpyx9a55x3e.com",
+      "kuai666ogv754urmpb4.com",
+      "kuai666vs5aq9o3ytdgp.com",
+      "yuncheapp.cn",
+      "sx3i65zvgw3g8k.com"
+    ],
+    "injectJsbridge": {
+      "kwai.com": "All",
+      "kuaishou.com": "All",
+      "kuaishoupay.com": "All",
+      "gifshow.com": "All",
+      "viviv.com": "All",
+      "app.viviv.com": "All",
+      "www.kwaishop.com": "All",
+      "im.kwaishop.com": "All",
+      "wenjuan.xiatou.com": "All",
+      "m2u-api.getkwai.com": "All",
+      "getkwai.com": "All",
+      "acfun.cn": "All",
+      "kuaishouzt.com": "All",
+      "kwaizt.com": "All",
+      "kstv.com": "All",
+      "kuaijinniu.com": "All",
+      "kuaishouapp.com": "All",
+      "kwai666.com": "All",
+      "itunes.apple.com": "All",
+      "kwaishop.com": "All",
+      "chenzhongtech.com": "All",
+      "etoote.com": "All",
+      "yuncheapp.cn": "All",
+      "kwaiying.com": "All",
+      "yximgs.com": "All",
+      "kwaixiaodian.com": "All",
+      "wipxygamdr1z.com": "All",
+      "kwaie65eu4gvs1943.com": "All",
+      "kwaiww7t3qi8x217.com": "All",
+      "rmug8cyxh5m8.com": "All",
+      "rsa3uk4qzf135.com": "All",
+      "get666bjt6ao7kxyiv8t.com": "All",
+      "zz8i95vp739hv.com": "All",
+      "mimuzgctpv24ih.com": "All",
+      "cz7px49cy51pv8.com": "All",
+      "w3rs5mizb6hk.com": "All",
+      "aveyxaszd42m.com": "All",
+      "ccko7wxst4ekif.com": "All",
+      "get666bjrqu985xvp14v.com": "All",
+      "get666bjroqzvm5dmxe.com": "All",
+      "get666bjw6svyrx8exc7.com": "All",
+      "fast666ie6zotw4a1x4h.com": "All",
+      "fast666swqpxeau3h5ai.com": "All",
+      "xurcpq85avgcbd.com": "All",
+      "sm38g9v4orxkd2.com": "All",
+      "awu3zc9ifpxb.com": "All",
+      "xyzwsg5u7kkv5z.com": "All",
+      "wpukmigz6k3p.com": "All",
+      "xxitkyco4mrftx.com": "All",
+      "xc6az7usrq15p9.com": "All",
+      "isk6tmw3prvrpc.com": "All",
+      "kstegw9vo7615.com": "All",
+      "k9q35kyxgmdr2t.com": "All",
+      "uw36gicu5xav.com": "All",
+      "mok8uptsmk19.com": "All",
+      "ksurl.cn": "All",
+      "kortatb.com": "All",
+      "chenzhongkj.com": "All",
+      "v9kax8tsovbzr.com": "All",
+      "awrzuqiekom68z.com": "All",
+      "kuai666ogv754urmpb4.com": "All",
+      "d.2dfire.com": [
+        "startAuthActivity",
+        "exitWebView",
+        "getLocation",
+        "requestLocationPermission",
+        "hasLocationPermission"
+      ],
+      "d.2dfire-pre.com": [
+        "startAuthActivity",
+        "exitWebView",
+        "getLocation",
+        "requestLocationPermission",
+        "hasLocationPermission"
+      ],
+      "api.l.whereask.com": [
+        "startAuthActivity",
+        "exitWebView",
+        "getLocation",
+        "requestLocationPermission",
+        "hasLocationPermission"
+      ],
+      "txwk.10010.com": [
+        "commonShare",
+        "gete2"
+      ],
+      "card.10010.com": [
+        "exitWebView"
+      ],
+      "mockuai.com": [
+        "startAuthActivity",
+        "saveImage"
+      ],
+      "youzan.com": [
+        "startAuthActivity",
+        "saveImage",
+        "loadUrlOnNewPage",
+        "on"
+      ],
+      "qq.com": [
+        "startAuthActivity"
+      ],
+      "live.v.wo.cn": [
+        "unionPhoneNumber",
+        "emitFreeTrafficUpdate"
+      ],
+      "keruyun.com": [
+        "startAuthActivity"
+      ],
+      "qunar.com": [
+        "startAuthActivity"
+      ],
+      "ele.me": [
+        "getLocation",
+        "requestLocationPermission",
+        "hasLocationPermission",
+        "setMiddleSlideBack",
+        "setSlideBack"
+      ],
+      "pre-wormhole.tmall.com": [
+        "getLocation",
+        "requestLocationPermission",
+        "hasLocationPermission",
+        "setMiddleSlideBack",
+        "setSlideBack"
+      ]
+    }
+  },
+  "emotionQuickSendAbtest": 1,
+  "sideBarMessageIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_message_1.png",
+  "diagnosis_client_log_level": 2,
+  "enableMoment": true,
+  "followTabMasterPublishMaxMockCount": 3,
+  "kcardOn": true,
+  "kwaiMusicianPlanH5Url": "https://m.viviv.com/app/musician/plan",
+  "enableLabConfig": true,
+  "promoteCameraFps": false,
+  "followDetailSlide": {
+    "enableMainApp": false,
+    "enable": true,
+    "enableMainAppUseSelection": false,
+    "frequentUserShowLiveCountThreshold": 2
+  },
+  "followSelector": {},
+  "edgeUserParameter": {
+    "MAIN_APP": {
+      "edgeRerankTfLiteModel": "https://static.yximgs.com/udata/pkg/RECO-EDGE-RERANK/pnn_multi_task_v0.tflite?md5=e82c0fcec2326e994c61e9df9928ed52",
+      "edgeRerankEnabled": false,
+      "edgeSortEnabled": false,
+      "edgeDiversityEnabled": false,
+      "edgeRerankUploadRatio": 0.1,
+      "edgeRerankExpiredSeconds": 600,
+      "edgeStartRerankCnt": 10,
+      "edgeRerankUserFeatureCount": 10,
+      "edgeEsRerankUploadRatio": 0.01,
+      "edgeRerankExploreUserFeatureCount": 20
+    },
+    "THANOS": {
+      "edgeRerankTfLiteModel": "https://static.yximgs.com/udata/pkg/RECO-EDGE-RERANK/pnn_multi_task_v0.tflite?md5=e82c0fcec2326e994c61e9df9928ed52",
+      "edgeRerankEnabled": false,
+      "edgeSortEnabled": false,
+      "edgeDiversityEnabled": false,
+      "edgeRerankUploadRatio": 0.1,
+      "edgeRerankExpiredSeconds": 600,
+      "edgeStartRerankCnt": 10,
+      "edgeRerankUserFeatureCount": 10,
+      "edgeEsRerankUploadRatio": 0.0,
+      "edgeRerankExploreUserFeatureCount": 0
+    },
+    "NEBULA": {
+      "edgeRerankTfLiteModel": "baseline_model_tf_lite_001.tflite",
+      "edgeRerankEnabled": true,
+      "edgeSortEnabled": false,
+      "edgeDiversityEnabled": false,
+      "edgeRerankUploadRatio": 0.1,
+      "edgeRerankExpiredSeconds": 600,
+      "edgeStartRerankCnt": 10,
+      "edgeRerankUserFeatureCount": 10,
+      "edgeEsRerankUploadRatio": 0.0,
+      "edgeRerankExploreUserFeatureCount": 0
+    },
+    "GAMORA": {
+      "edgeRerankTfLiteModel": "https://static.yximgs.com/udata/pkg/RECO-EDGE-RERANK/jingxuan_tflite_model/pnn_multi_task_ltr_0_jingxuan_20201129.tflite?md5=a79aa1d79013aa06120c0a8f9817aea6",
+      "edgeRerankEnabled": true,
+      "edgeSortEnabled": false,
+      "edgeDiversityEnabled": false,
+      "edgeRerankUploadRatio": 0.1,
+      "edgeRerankExpiredSeconds": 600,
+      "edgeStartRerankCnt": 0,
+      "edgeRerankUserFeatureCount": 10,
+      "edgeEsRerankUploadRatio": 0.0,
+      "edgeRerankExploreUserFeatureCount": 0
+    }
+  },
+  "imageDownloadStatisticRatio": 0.01,
+  "kpgDecoderType": 2,
+  "enableContactUploadV2": true,
+  "adConfig": {
+    "envH5Url": "https://activity-e.chenzhongtech.com/ka-clock-in/pages/loreal/index?photoid=__PHOTOID__",
+    "mmaConfigFileUrl": "https://static.yximgs.com/udata/pkg/AD-BRAND-MMA/sdkconfig.xml",
+    "brandShowTimeLimit": 0,
+    "appNameWhiteList": [
+      "com.taobao.taobao"
+    ]
+  },
+  "fansTopOn": true,
+  "enablePublicFollow": false,
+  "daGlassesBuyUrl": "https://dashi.tmall.com/?ttid=2014_0_24648319%40baichuan_h5_0.3.6&ybhpss=dHRpZD0yMDE0XzBfMjQ2NDgzMTklNDBiYWljaHVhbl9oNV8wLjMuNg%3D%3D",
+  "rickonExperimentConfig": "{\"probeBytes\":102400,\"encodePreferRatio\":50,\"defaultEncodePreset\":1,\"speedTestSendItv\":50,\"congestionControlType\":\"IA2C3\",\"cc\":2290124}",
+  "courseLiveConfig": {
+    "courseAdsUserProfileIcon": "http://static.yximgs.com/s1/archive/i/knowledge/profile_icon_course@3x.png",
+    "courseAdsAudienceButtonNormal": "http://ali.static.yximgs.com/s1/archive/i/knowledge/live_icon_course_normal@3x.png",
+    "courseAdsBeforeLiveStr": "课程推广",
+    "courseAdsAudienceButtonPressed": "http://ali.static.yximgs.com/s1/archive/i/knowledge/live_icon_course_pressed@3x.png",
+    "popupScoreTime": 300
+  },
+  "sideBarRightTop": {
+    "enableTeenagerMode": false,
+    "iconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_weather_clear.png",
+    "title": "-1°，东城",
+    "linkUrl": "https://app.m.kuaishou.com/weather/index?hyId=weather&layoutType=4&webview=yoda&enableWK=1&lon=116.397459&lat=39.938884",
+    "id": 0
+  },
+  "like": {},
+  "followFeedRealActions": [
+    "LIKE",
+    "COMMENT",
+    "COMMENT_PANEL",
+    "COLLECT",
+    "PLAY_PHOTO",
+    "ENTER_PROFILE",
+    "PHOTO_NEGATIVE",
+    "SHARE"
+  ],
+  "enableNearbyGuest": false,
+  "demeterConfig": {
+    "watchVideo": {
+      "watchVideoSwitch": false,
+      "intervals": 5
+    },
+    "channelApp": {
+      "channelApp": true,
+      "popupPicUrl": "https://ali.static.yximgs.com/kos/nlav10545/kwai-fission-share-popup/show_popup_big_pic_channel.png",
+      "jumpUrl": "https://demeter.kuaishou.com/fission/inkwai/invite?hyId=kwai_fission&source=HOME_POP_ANDROID_CHANNEL_APK",
+      "ksOrderId": "pop_up_10003_101_1"
+    }
+  },
+  "enableSearchTopEmotion": true,
+  "acquaintancePrivacyPopup": {
+    "title": "关闭熟人推荐",
+    "descriptions": "对熟人作品不感兴趣？可以在隐私设置中关闭熟人圈",
+    "buttonText": "去设置"
+  },
+  "profileRemindTipDesc": "好久没更新了，快提醒我一下吧",
+  "pymkConfig": {
+    "followingPageShowRecommendThreshold": 2000
+  },
+  "profileBackgroundType": 0,
+  "sideBarDailyAttendence": {
+    "enableTeenagerMode": false,
+    "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_punch_sf_3.png",
+    "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/daily_attendence_corona.7ef7e856.png",
+    "title": "打卡",
+    "linkUrl": "https://activity.m.kuaishou.com/sign-in-v2/index.html?layoutType=4&webview=yoda&hyId=signInV2&prefetchEvents=SIGNINV2_STARTUP#/index",
+    "id": 0
+  },
+  "sideBarMessageSkinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_message_sf_3.png",
+  "enableHybrid": true,
+  "enableSearchEmotion": true,
+  "enableShowCollectTab": true,
+  "bootingProtectionABTest": false,
+  "promptFollowByWatchingLiveDuration": 120000,
+  "enableLiveAuthorRTQosLog": true,
+  "enableMyfollowTabNotify": true,
+  "enableRelationAlias": true,
+  "boards": [
+    {
+      "type": 1,
+      "boardId": 1,
+      "boardName": "热榜",
+      "bannerIconUrl": "https://static.yximgs.com/udata/pkg/se-cdn/kwai_hot_bg_v2.webp",
+      "bannerLinkUrl": ""
+    },
+    {
+      "type": 2,
+      "boardId": 1,
+      "boardName": "明星",
+      "bannerIconUrl": "https://static.yximgs.com/bs2/fes/flow_operation_tag_icon_be90dcff28750a6a3eba63083ea015b6.jpg",
+      "bannerLinkUrl": ""
+    },
+    {
+      "type": 2,
+      "boardId": 2,
+      "boardName": "游戏",
+      "bannerIconUrl": "https://static.yximgs.com/bs2/fes/admin_operation_tag_icon_fb5b3e8943d13e987db3a4b9ab66f199750-440-23.jpg",
+      "bannerLinkUrl": ""
+    },
+    {
+      "type": 2,
+      "boardId": 12,
+      "boardName": "影视",
+      "bannerIconUrl": "https://static.yximgs.com/bs2/fes/flow_operation_tag_icon_fa018fa85022b64ebc3bd0d3a43cb292.png",
+      "bannerLinkUrl": ""
+    }
+  ],
+  "enableMerchantItemSetEntry": true,
+  "appRefreshFeedListInSecond": 1800,
+  "shareTokenRegex": "[\\\\s\\\\S]*##(X[\\\\+\\\\-]?[A-Za-z0-9]+_[\\\\+\\\\-]?[A-Za-z0-9]+)##[\\\\s\\\\S]*|[\\\\s\\\\S]*https?://[\\\\S^/]+/s/([A-Za-z0-9\\\\+\\\\-_]{8})[\\\\s\\\\S]*|[\\\\s\\\\S]*https?://[\\\\S^/]+/f/([A-Za-z0-9\\\\+\\\\-_]+)[\\\\s\\\\S]*|[\\\\s\\\\S]*https?://[a-z]\\\\.kuaishou\\\\.com/([A-Za-z0-9\\\\+\\\\-_]+)[\\\\s\\\\S]*|[\\\\s\\\\S]*https?://[a-z]\\\\.kuaishouapp\\\\.com/([A-Za-z0-9\\\\+\\\\-_]+)[\\\\s\\\\S]*|[\\\\s\\\\S]*##(X?[\\\\+\\\\-]?[A-Za-z0-9\\\\-_]+_[\\\\+\\\\-]?[A-Za-z0-9]+)##[\\\\s\\\\S]*|[\\\\s\\\\S]*[\uD83D\uDC39|\uD83D\uDC2D|\uD83D\uDC3C|\uD83C\uDF40|☘|\uD83C\uDF31|\uD83D\uDCAB|\uD83D\uDC30|\uD83D\uDC07|\uD83E\uDD5C|\uD83E\uDD6A](.+[\uD83D\uDC39|\uD83D\uDC2D|\uD83D\uDC3C|\uD83C\uDF40|☘|\uD83C\uDF31|\uD83D\uDCAB|\uD83D\uDC30|\uD83D\uDC07|\uD83E\uDD5C|\uD83E\uDD6A])[\\\\s\\\\S]*|[¤₱€₳₤￡￠↦§‖‣﹠§](X[+\\\\-]?[A-Za-z0-9]+_[+\\\\-]?[A-Za-z0-9]+)[¤₱€₳₤￡￠↤§‖◂﹠§]|[¤₱€₳₤￡￠↦§‖‣﹠§](X?[+\\\\-]?[A-Za-z0-9\\\\-_]+_[+\\\\-]?[A-Za-z0-9]+)[¤₱€₳₤￡￠↤§‖◂﹠§]|((​|‌|‍|&#8203;|&#8204;|&#8205;|&zwnj|&zwj)+)|[\\s\\S]{0,300}##(X-?[0-9a-zA-Z]+_-?[0-9a-zA-Z]+)##[\\s\\S]*|[\\s\\S]*https?://[a-z]\\.kuaishou\\.com/([A-Za-z0-9\\+\\-_]+)[\\s\\S]*|[\\s\\S]*[\uD83D\uDC39|\uD83D\uDC2D|\uD83D\uDC3C|\uD83C\uDF40|☘|\uD83C\uDF31|\uD83D\uDCAB|\uD83D\uDC30|\uD83D\uDC07|\uD83E\uDD5C|\uD83E\uDD6A](.{6,500}[\uD83D\uDC39|\uD83D\uDC2D|\uD83D\uDC3C|\uD83C\uDF40|☘|\uD83C\uDF31|\uD83D\uDCAB|\uD83D\uDC30|\uD83D\uDC07|\uD83E\uDD5C|\uD83E\uDD6A])[\\s\\S]*|.*/[\\S]+/s/([0-9a-zA-Z\\-]{8})[^0-9a-zA-Z]*|[\\s\\S]*https?:/[\\S^/]+/s/([A-Za-z0-9\\+\\-_]{8})[\\s\\S]*|[\\s\\S]*https?:/[\\S^/]+/f/([A-Za-z0-9\\+\\-_]+)[\\s\\S]*",
+  "kwaiIdConfig": {
+    "enableUpdateKwaiId": true
+  },
+  "disableNewAdLog": 0,
+  "teenageTools": [
+    {
+      "displayMode": 3,
+      "corner2": "已开启",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/webserver/teenage_tools/teenage_mode_icon2.png",
+      "actionUrl": "kwai://childlockguide",
+      "desc": "青少年模式",
+      "id": 1
+    },
+    {
+      "displayMode": 3,
+      "iconUrl": "https://static.yximgs.com/udata/pkg/webserver/teenage_tools/teenage_tools_care_icon.png",
+      "actionUrl": "https://ppg.m.etoote.com/doodle/SvvgFzHE.html",
+      "desc": "护苗在行动",
+      "id": 2
+    },
+    {
+      "displayMode": 3,
+      "iconUrl": "https://static.yximgs.com/udata/pkg/webserver/teenage_tools/teenage_courses_icon.png",
+      "actionUrl": "https://ppg.m.chenzhongtech.com/doodle/o/moeiWvUO.html",
+      "desc": "空中课堂",
+      "id": 3
+    },
+    {
+      "displayMode": 3,
+      "iconUrl": "https://static.yximgs.com/udata/pkg/webserver/teenage_tools/teenage_service_icon.png",
+      "actionUrl": "https://csc.m.kuaishou.com/help/index.html?enableWK=1&layoutType=4&hyId=kuaishou_csc#/?entranceId=1",
+      "desc": "快手客服",
+      "id": 4
+    }
+  ],
+  "disableSDImageCache": true,
+  "partFileUploadInfo": {
+    "threshold": 0,
+    "partFileUploadOn": true,
+    "dataNetOn": true,
+    "maxThread": 4,
+    "partFileUploadFirst": false,
+    "partSize": 1048576,
+    "uploadRetryCount": 3,
+    "soSendBuff": 1048576,
+    "tcpMaxSeg": 1400,
+    "wholeUploadMaxSize": 20971520
+  },
+  "enableUploadAtlas": true,
+  "showSameFollowButton": true,
+  "displayMyWallet": true,
+  "enableKwaiId": true,
+  "collectPopupConfig": {
+    "popupText": {
+      "noCollect": "收藏后可以在个人主页便捷查看哦~ ",
+      "hasCollect": "爱看的作品收藏起来慢慢看吧~"
+    },
+    "frequency": [
+      {
+        "range": 600000,
+        "count": 1
+      },
+      {
+        "range": 86400000,
+        "count": 6
+      },
+      {
+        "range": 0,
+        "count": 2000
+      }
+    ]
+  },
+  "merchantShearPlatePasswordRegex": "([《|￥|¥|€]{1}[0-9a-zA-Z]{11}[《|￥|¥|€]{1})",
+  "enableSwitchAccount": true,
+  "enableUploadPipeline": true,
+  "redPackDomain": "hb.ksapisrv.com",
+  "disableMagicFinger": false,
+  "userTextMaxLength": 255,
+  "enableBeautyV4ByDevice": false,
+  "searchUserTabFoldGetMoreThreshold": 15,
+  "authorFansTopMotivateInfo": {
+    "guideTitle": "分享作品，免费得曝光",
+    "guideDelaySec": 3,
+    "textType": 13
+  },
+  "homeTitleReminderNoticeStyle": 0,
+  "defaultTabConfig": {
+    "bottomTab": {
+      "defaultTab": 2,
+      "expireTime": 2592000000
+    },
+    "homeTab": {
+      "defaultTab": 1,
+      "expireTime": 43200000
+    },
+    "priorityTabList": {
+      "defaultTab": [
+        5,
+        3
+      ],
+      "expireTime": 2592000000
+    }
+  },
+  "avatarPendantConfig": {
+    "enableDetail": true,
+    "enableMessage": true,
+    "enableNews": true,
+    "enableMomentAggr": true,
+    "enableNotice": true,
+    "enableDrawerMenu": true,
+    "enableProfile": true,
+    "enableDetailComment": true
+  },
+  "pushGuideDialogControl": {
+    "exposureControl": [
+      {
+        "count": 1,
+        "threshold": 3
+      },
+      {
+        "count": 2,
+        "threshold": 7
+      }
+    ],
+    "isNewUser": false
+  },
+  "badgeConfig": {
+    "registerTime": 1591276444000,
+    "showBadgeTime": 604800000
+  },
+  "host-name": "webservice-sc-rs265.idcyz.hb1.kwaidc.com",
+  "followRealtimeCardConfig": {
+    "enable": true,
+    "rotationIntervalSeconds": 3
+  },
+  "useNewFanstopName": true,
+  "unLoginFairyDeerNewDevice": false,
+  "enableFeed4ArticlePage": true,
+  "enableLiveChat": true,
+  "notRecommendToContactsOption": true,
+  "updateUserNameTimesText": "一周内仅可修改2次昵称",
+  "feedbackAndHelpLinkUrl": "https://csc.m.kuaishou.com/help/index.html?enableWK=1&layoutType=4&hyId=kuaishou_csc#/?entranceId=2",
+  "shopServiceTokenIntervalSeconds": 864000,
+  "userSideBarList": [
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_game_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/game_corona.0b810f58.png",
+      "title": "游戏",
+      "linkUrl": "https://sogame.kuaishou.com/gamecenter",
+      "redDotType": 1002,
+      "titleKey": "menu_game",
+      "id": 8
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_live_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/live_square_corona.7fbf1b00.png",
+      "title": "直播广场",
+      "linkUrl": "kwai://liveaggregatesquare?scene=2&sourceType=77&pageType=32167",
+      "redDotType": 1029,
+      "titleKey": "menu_live_square",
+      "id": 30,
+      "showBadge": true,
+      "badgeType": "showSideBarV3Badge2"
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_portfolio_sf_4.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/protofolio_corona.d37ef256.png",
+      "title": "本地作品集",
+      "linkUrl": "holder",
+      "redDotType": 1210,
+      "titleKey": "menu_local_album",
+      "id": 10
+    },
+    {
+      "enableTeenagerMode": true,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_scan_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/scan_corona.5fc9ff1b.png",
+      "title": "扫一扫",
+      "linkUrl": "holder",
+      "redDotType": 1211,
+      "titleKey": "menu_qr_code",
+      "id": 11
+    },
+    {
+      "enableTeenagerMode": false,
+      "skinIconUrl": "http://js2.a.yximgs.com/bs2/fes/app_sidebar_icon_shop_sf_3.png",
+      "iconUrl": "https://static.yximgs.com/udata/pkg/KS-SIDEBAR/shop_corona.33522d8e.png",
+      "title": "快手小店",
+      "linkUrl": "holder",
+      "redDotType": 1009,
+      "titleKey": "sidebar_shop_name_ab",
+      "id": 15
+    }
+  ],
+  "kcardPromote": {
+    "title": "领2400快币，抢1000元话费",
+    "url": "https://dev.coc.10086.cn/coc/web1/contractsposter/?pageId=1321754679240876032&channelId=P00000000458",
+    "product": "MOBILE_HUAKA_CARD",
+    "configId": "1"
+  },
+  "enableMmkv": true,
+  "sideBarUserText": "",
+  "longVideoConfig": {
+    "longVideoMinMillisecond": 57000,
+    "longVideoMaxMinute": 15
+  }
+}

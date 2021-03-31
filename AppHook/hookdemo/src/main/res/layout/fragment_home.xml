@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment">
+
+    <Button
+        android:id="@+id/click"
+        android:text="点击事件"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/longClick"
+        android:text="长按事件"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <com.ks.hookdemo.ShadowKuaiImageView
+        android:id="@+id/test"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/timg"
+        app:layout_constraintBottom_toTopOf="@id/nav_host_fragment"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:kwaiShadowEndColor="#80000000"
+        app:kwaiShadowStartColor="#00000000"
+        app:kuaiShadowlayoutGravity="bottom"
+        app:kwaiShadowWidth="30dp"
+        app:kwaiShadowHeight="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+
+    <com.ks.hookdemo.ui.MyFragmentLayout
+        android:id="@+id/ff"
+        android:background="@mipmap/shadow_bg"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content">
+
+        <com.ks.hookdemo.ShadowKuaiImageView
+            android:background="@drawable/timg"
+            app:kwaiShadowEndColor="#80000000"
+            app:kwaiShadowStartColor="#00000000"
+            app:kuaiShadowlayoutGravity="bottom"
+            app:kwaiShadowWidth="30dp"
+            app:kwaiShadowHeight="30dp"
+            android:layout_width="200dp"
+            android:layout_height="80dp" />
+
+        <TextView
+            android:text="测试内容"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </com.ks.hookdemo.ui.MyFragmentLayout>
+</LinearLayout>

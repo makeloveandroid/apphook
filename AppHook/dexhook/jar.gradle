@@ -1,0 +1,39 @@
+def isWindows() {
+    return System.properties['os.name'].toString().toLowerCase().contains('windows');
+}
+
+task buildJar(dependsOn: ['build'], type: Jar) {
+    archiveName = "hookJar.jar"
+    def javaClassDir = project.buildDir.absolutePath + "/intermediates/javac/debug/classes"
+    def ktClassDir = project.buildDir.absolutePath + "/tmp/kotlin-classes/debug"
+    from javaClassDir, ktClassDir
+}
+
+task makeTestDex(dependsOn: ['buildJar'], type: Exec) {
+    def jarPath = project.buildDir.absolutePath + "${File.separator}libs${File.separator}hookJar.jar"
+    def dexPath = project.buildDir.absolutePath + "${File.separator}libs${File.separator}hookDex.dex"
+
+    if (isWindows()) {
+        def dxPath = android.getSdkDirectory().getAbsolutePath() + "${File.separator}build-tools${File.separator}29.0.3${File.separator}dx.bat"
+        def cmd = dxPath + " --dex --output=" + dexPath + " " + jarPath
+        commandLine 'cmd', '/c', cmd
+    } else {
+        def dxPath = android.getSdkDirectory().getAbsolutePath() + "${File.separator}build-tools${File.separator}29.0.3${File.separator}dx"
+        def cmd = [dxPath, "--dex", "--output=" + dexPath, jarPath]
+        commandLine cmd
+    }
+    standardOutput = new ByteArrayOutputStream()
+    ext.output = {
+        return standardOutput.toString()
+    }
+}
+
+task printDexBase64(dependsOn: ['makeTestDex']) {
+    doLast {
+        def dexPath = project.buildDir.absolutePath + "${File.separator}libs${File.separator}hookDex.dex"
+        def base64 = new File(dexPath).readBytes().encodeBase64().toString()
+        println("val dexBase64=\"$base64\"")
+    }
+}
+
+
