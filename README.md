@@ -11,10 +11,6 @@
 # 看看成品吧
 ![](https://z3.ax1x.com/2021/03/31/ckzVx0.png)  
 
-
-# 源码
-[源码在这里，来个素质3连](https://github.com/makeloveandroid/apphook)   
-
 ![](https://i02piccdn.sogoucdn.com/d2dd8354fdccd5e8)  
 
 ![demo.gif](image/demo.gif)
