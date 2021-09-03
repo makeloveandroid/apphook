@@ -21,20 +21,16 @@ import java.io.File
 //}
 
 class XpInit : IXposedHookLoadPackage {
-//    val dir =
-//        Environment.getExternalStorageDirectory().absolutePath + "/Android/data/com.ks.apphook/cache/apphook/"
-    val hide = arrayListOf<String>("com.ks.apphook")
+    val dir =
+        Environment.getExternalStorageDirectory().absolutePath + "/Android/data/com.ks.apphook/cache/apphook/"
     override fun handleLoadPackage(lpparam: XC_LoadPackage.LoadPackageParam) {
-        if (!hide.contains(lpparam.processName) && lpparam.processName == lpparam.packageName) {
+        val file = File("${dir}${lpparam.packageName}")
+        Log.d(
+            "wyz",
+            "processName  " + lpparam.processName + " " + file.absolutePath + "  " + file.exists()
+        )
+        if (file.exists()){
             Core.xposedHook(lpparam.classLoader)
-//            val file = File("${dir}${lpparam.packageName}")
-//            Log.d(
-//                "wyz",
-//                "processName  " + lpparam.processName + " " + file.absolutePath + "  " + file.exists()
-//            )
-//            if (file.exists()){
-//                Core.xposedHook(lpparam.classLoader)
-//            }
         }
     }
 }
