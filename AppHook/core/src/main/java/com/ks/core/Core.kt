@@ -56,36 +56,6 @@ object Core  {
             }
             .build()
             .execute()
-//        MethodHook
-//            .Builder()
-//            .setClass(Application::class.java)
-//            .methodName("attach")
-//            .parameterTypes(Context::class.java)
-//            .afterHookedMethod {
-//                log("执行hook1")
-//                val context = it.args[0] as Context
-//                val app = it.thisObject as Application
-//                Utils.init(app)
-//                log("执行hook2")
-//                SharedPreferencesUtils.init(context)
-//                log("执行hook3")
-//                CallActionManager.init()
-//                log("执行hook4")
-//                WebSocketManager.onOpen(context)
-//                log("执行hook5")
-//                LocationHookUtils.startHook(classLoader)
-//                log("执行hook6")
-//                DexHelper.loadDex(context)
-//                log("执行hook7")
-//                InitManager.init(app)
-//                log("执行hook8")
-//                HookManager.register()
-//                log("执行hook9")
-//                HookManager.hookAll(classLoader)
-//                log("执行hook10")
-//            }
-//            .build()
-//            .execute()
     }
 
     /**

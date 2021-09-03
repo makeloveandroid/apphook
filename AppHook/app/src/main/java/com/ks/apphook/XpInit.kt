@@ -1,11 +1,8 @@
 package com.ks.apphook
 
-import android.os.Environment
-import android.util.Log
 import com.ks.core.Core
 import de.robv.android.xposed.IXposedHookLoadPackage
 import de.robv.android.xposed.callbacks.XC_LoadPackage
-import java.io.File
 
 //class MyContextScope(context: CoroutineContext) : CoroutineScope {
 //    override val coroutineContext: CoroutineContext = context
@@ -21,16 +18,9 @@ import java.io.File
 //}
 
 class XpInit : IXposedHookLoadPackage {
-    val dir =
-        Environment.getExternalStorageDirectory().absolutePath + "/Android/data/com.ks.apphook/cache/apphook/"
-    override fun handleLoadPackage(lpparam: XC_LoadPackage.LoadPackageParam) {
-        val file = File("${dir}${lpparam.packageName}")
-        Log.d(
-            "wyz",
-            "processName  " + lpparam.processName + " " + file.absolutePath + "  " + file.exists()
-        )
-        if (file.exists()){
-            Core.xposedHook(lpparam.classLoader)
-        }
+  override fun handleLoadPackage(lpparam: XC_LoadPackage.LoadPackageParam) {
+    if (lpparam.processName == lpparam.packageName) {
+      Core.xposedHook(lpparam.classLoader)
     }
+  }
 }
